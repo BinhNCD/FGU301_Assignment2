@@ -4,6 +4,9 @@ using UnityEngine;
 public class HitboxTrigger : MonoBehaviour
 {
     public float damage { get; set; } = 0f;
+
+    [Tooltip("Thời gian dừng game (Game Stutter) khi đòn đánh trúng.")]
+    public float hit_stop_duration = 0.05f;
     public LayerMask TargetLayer { get; set; }
     private readonly HashSet<Collider2D> targets_hit = new HashSet<Collider2D>();
 
@@ -29,16 +32,19 @@ public class HitboxTrigger : MonoBehaviour
             return;
         }
 
-        // --- Logic Gây Sát Thương ---
+        HealthComponent health = other.GetComponent<HealthComponent>();
 
-        // ********************************************************************
-        // THỰC HIỆN GỌI HÀM NHẬN SÁT THƯƠNG Ở ĐÂY
-        // ********************************************************************
+        if (health != null)
+        {
+            health.TakeDamage(damage, transform.position);
 
-        // Ví dụ: other.GetComponent<HealthComponent>()?.TakeDamage(Damage);
-        // Bạn sẽ cần thay thế 'HealthComponent' bằng tên script quản lý máu của kẻ địch/player khác.
+            Debug.Log($"[HitboxTrigger] SUCCESSFULLY hit {other.gameObject.name} for {damage} damage.");
+        }
+        else
+        {
+            Debug.LogWarning($"[HitboxTrigger] Hit {other.gameObject.name} but no HealthComponent found!");
+        }
 
-        // Debug tạm thời 
         targets_hit.Add(other);
         Debug.Log($"[Child Hitbox] Hit {other.gameObject.name} for {damage} damage.");
     }
