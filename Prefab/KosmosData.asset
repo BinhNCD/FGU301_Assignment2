@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b9499e62a6f0542868ce2bc675a666, type: 3}
+  m_Name: KosmosData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Kosmos
+  characterPrefab: {fileID: 4373682640621021755, guid: a2aba9f1632cf6d4f8b125c288636fa5, type: 3}
+  animatorOverride: {fileID: 22100000, guid: bfeeb403194077d40ba6ab114acc2157, type: 2}
+  moveSpeed: 10
+  jumpForce: 30
+  maxHealth: 100
+  comboAttacks:
+  - animationTriggerName: 
+    damage: 0
+    attackThrust: 0
+    offsetX: 0
+    offsetY: 0
+    sizeX: 0
+    sizeY: 0
+  - animationTriggerName: Attack1
+    damage: 10
+    attackThrust: 8.5
+    offsetX: 0.3402826
+    offsetY: -0.07464273
+    sizeX: 0.4599391
+    sizeY: 0.5609262
+  - animationTriggerName: Attack2
+    damage: 10
+    attackThrust: 8.5
+    offsetX: 0.2241029
+    offsetY: -0.03735052
+    sizeX: 0.7011964
+    sizeY: 0.185404
+  - animationTriggerName: Attack3
+    damage: 10
+    attackThrust: 0
+    offsetX: 0.2561175
+    offsetY: 0.08853674
+    sizeX: 1.369947
+    sizeY: 1.569936
+  - animationTriggerName: Attack4
+    damage: 10
+    attackThrust: 0
+    offsetX: 0.05522257
+    offsetY: 0.1393656
+    sizeX: 2.207413
+    sizeY: 1.671593

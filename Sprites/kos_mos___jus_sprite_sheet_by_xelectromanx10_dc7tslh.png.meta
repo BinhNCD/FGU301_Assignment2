@@ -1,0 +1,4970 @@
+fileFormatVersion: 2
+guid: 9819221b43dbc914fbefd979b94bb27d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2943153103954351419
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_0
+  - first:
+      213: 5996202635061326805
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_1
+  - first:
+      213: -6476771820614896864
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_2
+  - first:
+      213: -6641434560439990561
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_3
+  - first:
+      213: 6548520790713638595
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_4
+  - first:
+      213: 4233082178882524504
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_5
+  - first:
+      213: 5159991011110269247
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_6
+  - first:
+      213: -2357821094654113938
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_7
+  - first:
+      213: -2499481141883352039
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_8
+  - first:
+      213: 5903392601737542500
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_9
+  - first:
+      213: 8753344887971010347
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_10
+  - first:
+      213: -374988535513359913
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_11
+  - first:
+      213: -9066506867565759441
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_12
+  - first:
+      213: -5659414910416865927
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_13
+  - first:
+      213: -8437977640234120166
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_14
+  - first:
+      213: -276553749321411158
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_15
+  - first:
+      213: 5669642114068273008
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_16
+  - first:
+      213: -3943118010180333674
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_17
+  - first:
+      213: 3235854918793815400
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_18
+  - first:
+      213: -5737277470443037102
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_19
+  - first:
+      213: 984294018852257711
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_20
+  - first:
+      213: 1174689659772070930
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_21
+  - first:
+      213: 8342147176895536526
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_22
+  - first:
+      213: -6293185122581760783
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_23
+  - first:
+      213: -5741365248171182896
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_24
+  - first:
+      213: -6916692602609103553
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_25
+  - first:
+      213: 7892438003808519715
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_26
+  - first:
+      213: 7826546572813760115
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_27
+  - first:
+      213: -2225895972149540751
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_28
+  - first:
+      213: 4842346647081694000
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_29
+  - first:
+      213: 9195121632082097863
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_30
+  - first:
+      213: -969928838860859687
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_31
+  - first:
+      213: -3726752127226103711
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_32
+  - first:
+      213: -1322911968407070950
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_33
+  - first:
+      213: 4417504434798135515
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_34
+  - first:
+      213: 596335908725585950
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_35
+  - first:
+      213: 1711288118642761858
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_36
+  - first:
+      213: -8511791403999645621
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_37
+  - first:
+      213: -6877064820818542725
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_38
+  - first:
+      213: -5253200986406758455
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_39
+  - first:
+      213: 3184307451592107282
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_40
+  - first:
+      213: -1043145074820860633
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_41
+  - first:
+      213: -4333920555205687352
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_42
+  - first:
+      213: -1258622093871414229
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_43
+  - first:
+      213: 2214851208347541187
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_44
+  - first:
+      213: -7657373652744224497
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_45
+  - first:
+      213: 3748577346378912418
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_46
+  - first:
+      213: 1304472167154189085
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_47
+  - first:
+      213: 7833831830427602710
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_48
+  - first:
+      213: 2880491514139485793
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_49
+  - first:
+      213: 5080571791455902472
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_50
+  - first:
+      213: 5082344031483667602
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_51
+  - first:
+      213: -1157116665010497946
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_52
+  - first:
+      213: -3738903061904239015
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_53
+  - first:
+      213: 1212040999924655261
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_54
+  - first:
+      213: 742077016427023072
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_55
+  - first:
+      213: 7037364375301104622
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_56
+  - first:
+      213: 9047733907681003646
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_57
+  - first:
+      213: 2152903622255262234
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_58
+  - first:
+      213: -2879983926705894610
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_59
+  - first:
+      213: -4885179824170730950
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_60
+  - first:
+      213: 2211757194412701000
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_61
+  - first:
+      213: 689326455244343614
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_62
+  - first:
+      213: -7589583414481985563
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_63
+  - first:
+      213: -3418638236165041715
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_64
+  - first:
+      213: 7587341885186274392
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_65
+  - first:
+      213: -3985870326401257090
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_66
+  - first:
+      213: 2215015456387555015
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_67
+  - first:
+      213: -3852865716590083858
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_68
+  - first:
+      213: 8669234227288909648
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_69
+  - first:
+      213: -7992139136411407013
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_70
+  - first:
+      213: -7052085969952605364
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_71
+  - first:
+      213: -4098613752386456068
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_72
+  - first:
+      213: -3804761168046776839
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_73
+  - first:
+      213: 7566084348279819553
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_74
+  - first:
+      213: 407606044405157643
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_75
+  - first:
+      213: -2466797060074049271
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_76
+  - first:
+      213: -7553391863911454567
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_77
+  - first:
+      213: 1572565668007920773
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_78
+  - first:
+      213: -4757671554682993897
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_79
+  - first:
+      213: -3200219414787404788
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_80
+  - first:
+      213: -2705978702506595345
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_81
+  - first:
+      213: -7187071321913384574
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_82
+  - first:
+      213: 7061516655533827599
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_83
+  - first:
+      213: -3582752703964391104
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_84
+  - first:
+      213: 3066027234604787755
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_85
+  - first:
+      213: 2773881257143118853
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_86
+  - first:
+      213: 4636057232688284485
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_87
+  - first:
+      213: 6734269148027439481
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_88
+  - first:
+      213: 6527026509607419141
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_89
+  - first:
+      213: 6939257339063087765
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_90
+  - first:
+      213: -5311545998083211244
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_91
+  - first:
+      213: 8925427703709925191
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_92
+  - first:
+      213: 6794642524264170623
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_93
+  - first:
+      213: -3048018592253269067
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_94
+  - first:
+      213: -4316907478571697548
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_95
+  - first:
+      213: -7416972463013566826
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_96
+  - first:
+      213: 2925771134434698793
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_97
+  - first:
+      213: -8356713758676760329
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_98
+  - first:
+      213: 5846738819304114884
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_99
+  - first:
+      213: -7329187220350608761
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_100
+  - first:
+      213: 4428547424663868327
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_101
+  - first:
+      213: 447398417858643595
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_102
+  - first:
+      213: -1634554243139890145
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_103
+  - first:
+      213: 7016261907311512869
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_104
+  - first:
+      213: -1376175816364461242
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_105
+  - first:
+      213: 1229777443955781216
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_106
+  - first:
+      213: 2292921317727785833
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_107
+  - first:
+      213: -2465586707475535425
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_108
+  - first:
+      213: -1694601193054859184
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_109
+  - first:
+      213: 1978819859015952484
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_110
+  - first:
+      213: 4252973655276966848
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_111
+  - first:
+      213: 208036200526360093
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_112
+  - first:
+      213: 2139415002137631874
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_113
+  - first:
+      213: -3725898397543817550
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_114
+  - first:
+      213: 3487165798842716118
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_115
+  - first:
+      213: 6372072616194213089
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_116
+  - first:
+      213: 505882114165758348
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_117
+  - first:
+      213: -3033124629929539048
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_118
+  - first:
+      213: -3502533744899791808
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_119
+  - first:
+      213: 5207800085420479546
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_120
+  - first:
+      213: 7691136771425352781
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_121
+  - first:
+      213: 4567277616414379513
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_122
+  - first:
+      213: 6365761072943816383
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_123
+  - first:
+      213: -2574180567130596846
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_124
+  - first:
+      213: 494946813487826873
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_125
+  - first:
+      213: -1032002689663116484
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_126
+  - first:
+      213: 7097972960872405035
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_127
+  - first:
+      213: -3510765792524327815
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_128
+  - first:
+      213: 9092982880163346360
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_129
+  - first:
+      213: -7422110944533758619
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_130
+  - first:
+      213: -2898651546294941101
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_131
+  - first:
+      213: -8286012341683536485
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_132
+  - first:
+      213: 360688608564644166
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_133
+  - first:
+      213: -7496049276426222667
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_134
+  - first:
+      213: -7372906079445628633
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_135
+  - first:
+      213: -3355927783910392944
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_136
+  - first:
+      213: 4936180402977395016
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_137
+  - first:
+      213: -7387117720590769967
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_138
+  - first:
+      213: -2071256830974070508
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_139
+  - first:
+      213: 1812129409573293589
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_140
+  - first:
+      213: -8393213447999233828
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_141
+  - first:
+      213: -1146785708529359005
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_142
+  - first:
+      213: -5105520320173295646
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_143
+  - first:
+      213: -3021741740725823560
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_144
+  - first:
+      213: -886010850386831596
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_145
+  - first:
+      213: -467197491194875025
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_146
+  - first:
+      213: 890665753600293238
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_147
+  - first:
+      213: -5076367356002593293
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_148
+  - first:
+      213: -3465984371999110258
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_149
+  - first:
+      213: 7406494652808432997
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_150
+  - first:
+      213: 7365022893713139970
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_151
+  - first:
+      213: -874404729096896156
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_152
+  - first:
+      213: -5586651451580626592
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_153
+  - first:
+      213: -8989471533980778380
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_154
+  - first:
+      213: -3499701341139484725
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_155
+  - first:
+      213: 7398815966408877364
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_156
+  - first:
+      213: -5203475499243376203
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_157
+  - first:
+      213: 8145081293789601057
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_158
+  - first:
+      213: -6927618046145430898
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_159
+  - first:
+      213: -8437910806762514860
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_160
+  - first:
+      213: 5967554035320605222
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_161
+  - first:
+      213: -9049478043700811835
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_162
+  - first:
+      213: 2331217116076090752
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_163
+  - first:
+      213: -6491898102100656988
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_164
+  - first:
+      213: -6530103705966213599
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_165
+  - first:
+      213: -7300909627567792218
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_166
+  - first:
+      213: -1690117541961754817
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_167
+  - first:
+      213: -5069604308512121584
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_168
+  - first:
+      213: 5935929681434832844
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_169
+  - first:
+      213: 7061549417401787687
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_170
+  - first:
+      213: 1957633541747508374
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_171
+  - first:
+      213: 2368511291579451456
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_172
+  - first:
+      213: -4981267664354205840
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_173
+  - first:
+      213: -1898516359023261884
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_174
+  - first:
+      213: -7432404639456836136
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_175
+  - first:
+      213: 4705252300645364654
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_176
+  - first:
+      213: 8311503343067954081
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_177
+  - first:
+      213: 211275951226880287
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_178
+  - first:
+      213: 6855490626052942650
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_179
+  - first:
+      213: 438873475304242319
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_180
+  - first:
+      213: 8219580100127369577
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_181
+  - first:
+      213: -3382583761815150151
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_182
+  - first:
+      213: -1577970288684917120
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_183
+  - first:
+      213: -8406627781030353034
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_184
+  - first:
+      213: -4104083834795332918
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_185
+  - first:
+      213: 6824467865109735413
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_186
+  - first:
+      213: -2509485171139150968
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_187
+  - first:
+      213: -7628083480214025681
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_188
+  - first:
+      213: -2512362138838321620
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_189
+  - first:
+      213: 8131239693193198873
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_190
+  - first:
+      213: -2636742596414017755
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_191
+  - first:
+      213: -5164858411473402173
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_192
+  - first:
+      213: -2240094117736672494
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_193
+  - first:
+      213: 3660980645830107013
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_194
+  - first:
+      213: 4498282717251940924
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_195
+  - first:
+      213: -312688854772449326
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_196
+  - first:
+      213: 2193438784564793647
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_197
+  - first:
+      213: -8688840812972487254
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_198
+  - first:
+      213: -839333761516548495
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_199
+  - first:
+      213: -1276192928351060377
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_200
+  - first:
+      213: 1268322190789832920
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_201
+  - first:
+      213: -8120931242510354618
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_202
+  - first:
+      213: 4043775052082995823
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_203
+  - first:
+      213: 4403165834077901028
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_204
+  - first:
+      213: -3957031477402427573
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_205
+  - first:
+      213: 7668486240235316469
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_206
+  - first:
+      213: 3537155902222263309
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_207
+  - first:
+      213: 6098810296226077691
+    second: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_208
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1393
+        width: 194
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0233df43852ed16a0800000000000000
+      internalID: -6476771820614896864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1295
+        width: 34
+        height: 61
+      alignment: 9
+      pivot: {x: 0.57278544, y: 0.5324447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4fbf0d9b29250b0800000000000000
+      internalID: -5741365248171182896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1295
+        width: 36
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5966485, y: 0.5319604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d89e069b8f200a0800000000000000
+      internalID: -6916692602609103553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1295
+        width: 38
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6184544, y: 0.5331571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326cccc6c82978d60800000000000000
+      internalID: 7892438003808519715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1295
+        width: 36
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6244342, y: 0.53328717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767d9224aa7d9c60800000000000000
+      internalID: 7826546572813760115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1295
+        width: 38
+        height: 62
+      alignment: 9
+      pivot: {x: 0.64411926, y: 0.5246838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cd0918670c11e0800000000000000
+      internalID: -2225895972149540751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1295
+        width: 39
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6264269, y: 0.523725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033bb92ae98733340800000000000000
+      internalID: 4842346647081694000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1295
+        width: 38
+        height: 62
+      alignment: 9
+      pivot: {x: 0.61912537, y: 0.5246838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c673c21862ab9f70800000000000000
+      internalID: 9195121632082097863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1295
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.62920105, y: 0.50842285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69a462cde1a82f0800000000000000
+      internalID: -969928838860859687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1295
+        width: 50
+        height: 58
+      alignment: 9
+      pivot: {x: 0.630492, y: 0.54324025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b1ca7faae74cc0800000000000000
+      internalID: -3726752127226103711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1295
+        width: 49
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6222733, y: 0.5110801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17dbf5e29214ade0800000000000000
+      internalID: -1322911968407070950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1295
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6304022, y: 0.5268707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd80bd5e0e02e4d30800000000000000
+      internalID: 4417504434798135515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1295
+        width: 50
+        height: 60
+      alignment: 9
+      pivot: {x: 0.6287305, y: 0.5411011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f566795c964800800000000000000
+      internalID: 596335908725585950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1295
+        width: 50
+        height: 58
+      alignment: 9
+      pivot: {x: 0.61193967, y: 0.54324025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2806c042a77bfb710800000000000000
+      internalID: 1711288118642761858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_37
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1295
+        width: 49
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6223618, y: 0.5352762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b062c0da00e980800000000000000
+      internalID: -8511791403999645621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1295
+        width: 49
+        height: 59
+      alignment: 9
+      pivot: {x: 0.623139, y: 0.55171645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f76c15bf1cf80a0800000000000000
+      internalID: -6877064820818542725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1295
+        width: 35
+        height: 54
+      alignment: 9
+      pivot: {x: 0.70260185, y: 0.5079798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75e771981e817b0800000000000000
+      internalID: -5253200986406758455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_40
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1302
+        width: 48
+        height: 59
+      alignment: 9
+      pivot: {x: 0.7190666, y: 0.56715316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e6cb81cee03c20800000000000000
+      internalID: 3184307451592107282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_41
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1301
+        width: 52
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6807603, y: 0.55088055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725ba1ec4110681f0800000000000000
+      internalID: -1043145074820860633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_42
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1298
+        width: 50
+        height: 62
+      alignment: 9
+      pivot: {x: 0.8088635, y: 0.47405022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c783369732dad3c0800000000000000
+      internalID: -4333920555205687352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_43
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1297
+        width: 50
+        height: 65
+      alignment: 9
+      pivot: {x: 0.8112964, y: 0.47015852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b240654cfd9788ee0800000000000000
+      internalID: -1258622093871414229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_44
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1295
+        width: 37
+        height: 54
+      alignment: 9
+      pivot: {x: 0.69146895, y: 0.5092299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce56ef607bbcbe10800000000000000
+      internalID: 2214851208347541187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_45
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1295
+        width: 35
+        height: 54
+      alignment: 9
+      pivot: {x: 0.72771347, y: 0.6202438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01cebbbb3b8bb590800000000000000
+      internalID: -7657373652744224497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_46
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1295
+        width: 46
+        height: 50
+      alignment: 9
+      pivot: {x: 0.70776635, y: 0.7082446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2ddf75c3f950430800000000000000
+      internalID: 3748577346378912418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_47
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1295
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.66965085, y: 0.7348269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d130c9e468a6a1210800000000000000
+      internalID: 1304472167154189085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1197
+        width: 45
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5657326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29429ee18fc188640800000000000000
+      internalID: 5082344031483667602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1197
+        width: 46
+        height: 56
+      alignment: 9
+      pivot: {x: 0.29480577, y: 0.5457044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665d5a168811ffe0800000000000000
+      internalID: -1157116665010497946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1197
+        width: 48
+        height: 57
+      alignment: 9
+      pivot: {x: 0.59461147, y: 0.5357045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d399897fbc1cc0800000000000000
+      internalID: -3738903061904239015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1197
+        width: 45
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5436283, y: 0.54579216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94e7b52ed802d010800000000000000
+      internalID: 1212040999924655261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1211
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea4d106d136c4a00800000000000000
+      internalID: 742077016427023072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1211
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3afc02d9db9a160800000000000000
+      internalID: 7037364375301104622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_57
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1192
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7845955d02009d70800000000000000
+      internalID: 9047733907681003646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1197
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a3d281076a0ed10800000000000000
+      internalID: 2152903622255262234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_59
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1195
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b4cd1a0ed3808d0800000000000000
+      internalID: -2879983926705894610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_60
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1198
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3af56c25da543cb0800000000000000
+      internalID: -4885179824170730950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_61
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1197
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845326e237db1be10800000000000000
+      internalID: 2211757194412701000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1197
+        width: 34
+        height: 60
+      alignment: 9
+      pivot: {x: 0.543904, y: 0.52430624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e394e1342caf09900800000000000000
+      internalID: 689326455244343614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_63
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1197
+        width: 39
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49989358, y: 0.5254008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efda9a88126ca690800000000000000
+      internalID: -7589583414481985563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_64
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1197
+        width: 43
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4077546, y: 0.5270589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc190dd03ae8e80d0800000000000000
+      internalID: -3418638236165041715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_65
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1197
+        width: 39
+        height: 60
+      alignment: 9
+      pivot: {x: 0.39687562, y: 0.5257955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85478ffbe37ab4960800000000000000
+      internalID: 7587341885186274392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_66
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1199
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7135126e085fa8c0800000000000000
+      internalID: -3985870326401257090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_67
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1199
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cedaf962d05dbe10800000000000000
+      internalID: 2215015456387555015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_71
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1103
+        width: 42
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6542402, y: 0.3629543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b75738c25f12e90800000000000000
+      internalID: -7052085969952605364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1103
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4511049, y: 0.406626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf57971f18cce17c0800000000000000
+      internalID: -4098613752386456068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_73
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1103
+        width: 63
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8496433, y: 0.39441833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd1f5b40e5c23bc0800000000000000
+      internalID: -3804761168046776839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1103
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0.486211, y: 0.5233988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8cdfb0a1200960800000000000000
+      internalID: 7566084348279819553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1103
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.38582215, y: 0.52466637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f421da98b18a500800000000000000
+      internalID: 407606044405157643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_76
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1103
+        width: 43
+        height: 60
+      alignment: 9
+      pivot: {x: 0.37990984, y: 0.52515256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901fe4db42d24cdd0800000000000000
+      internalID: -2466797060074049271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1103
+        width: 33
+        height: 55
+      alignment: 9
+      pivot: {x: 0.53031504, y: 0.57151765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986b3e8e16fc2790800000000000000
+      internalID: -7553391863911454567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_78
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1103
+        width: 60
+        height: 53
+      alignment: 9
+      pivot: {x: 0.64183503, y: 0.6123692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584469ba420e2d510800000000000000
+      internalID: 1572565668007920773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1099
+        width: 76
+        height: 63
+      alignment: 9
+      pivot: {x: 0.37494057, y: 0.56311035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713c321adea59fdb0800000000000000
+      internalID: -4757671554682993897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_80
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1098
+        width: 77
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4092114, y: 0.5952106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc942d5698693d0800000000000000
+      internalID: -3200219414787404788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_81
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1098
+        width: 49
+        height: 60
+      alignment: 9
+      pivot: {x: 0.68089825, y: 0.6077026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb625bf4be627ad0800000000000000
+      internalID: -2705978702506595345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_82
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1103
+        width: 57
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7639449, y: 0.61824065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281a4f126b4624c90800000000000000
+      internalID: -7187071321913384574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_83
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1098
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.33857745, y: 0.57769305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0629941cfb8ff160800000000000000
+      internalID: 7061516655533827599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_84
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1103
+        width: 63
+        height: 67
+      alignment: 9
+      pivot: {x: 0.8494757, y: 0.47052276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049d122e561874ec0800000000000000
+      internalID: -3582752703964391104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_85
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1075
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28aa4e7687bc8a20800000000000000
+      internalID: 3066027234604787755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1075
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c21258e4ece7620800000000000000
+      internalID: 2773881257143118853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_87
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1004
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54304c08d75965040800000000000000
+      internalID: 4636057232688284485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_88
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1004
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794c064c1ee47d50800000000000000
+      internalID: 6734269148027439481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1007
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d35b06708a49a50800000000000000
+      internalID: 6527026509607419141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1006
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592b0ebb8c13d4060800000000000000
+      internalID: 6939257339063087765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_91
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1006
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104a187e099946b0800000000000000
+      internalID: -5311545998083211244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1011
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f7f04253d7ddb70800000000000000
+      internalID: 8925427703709925191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_93
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1013
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f748782506b6b4e50800000000000000
+      internalID: 6794642524264170623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1008
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb25fb4d3343b5d0800000000000000
+      internalID: -3048018592253269067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_95
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1009
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab18b25834714c0800000000000000
+      internalID: -4316907478571697548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_96
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1013
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e83977de911990800000000000000
+      internalID: -7416972463013566826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_97
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1004
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926621a685d6a9820800000000000000
+      internalID: 2925771134434698793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_98
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1004
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8c37cbc1df60c80800000000000000
+      internalID: -8356713758676760329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 968
+        width: 164
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cacb139af9c32150800000000000000
+      internalID: 5846738819304114884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 897
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5ba60e0f794a90800000000000000
+      internalID: -7329187220350608761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 897
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a39f065b6c557d30800000000000000
+      internalID: 4428547424663868327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 897
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8649899d7a753600800000000000000
+      internalID: 447398417858643595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 897
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f141a8b7395e059e0800000000000000
+      internalID: -1634554243139890145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 931
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d486ce705ce5160800000000000000
+      internalID: 7016261907311512869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 897
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643fc15e267d6ece0800000000000000
+      internalID: -1376175816364461242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 897
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea5c3d11c011110800000000000000
+      internalID: 1229777443955781216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_107
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 897
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963d5114ac712df10800000000000000
+      internalID: 2292921317727785833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_108
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 897
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9eef9e3f978cdd0800000000000000
+      internalID: -2465586707475535425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_109
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 897
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050130c71319b78e0800000000000000
+      internalID: -1694601193054859184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 897
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46862237d2e267b10800000000000000
+      internalID: 1978819859015952484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_111
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 897
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3d0e99109950b30800000000000000
+      internalID: 4252973655276966848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_112
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 931
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eabc872d713e200800000000000000
+      internalID: 208036200526360093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_113
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 919
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1e8dfb9ab0bd10800000000000000
+      internalID: 2139415002137631874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_114
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 863
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be1439e523fa4cc0800000000000000
+      internalID: -3725898397543817550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 863
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df49e871d6e46030800000000000000
+      internalID: 3487165798842716118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_116
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 740
+        width: 114
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e40043a8462e6850800000000000000
+      internalID: 6372072616194213089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_117
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 741
+        width: 52
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89d2114a11450700800000000000000
+      internalID: 505882114165758348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 741
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81acf81283d28e5d0800000000000000
+      internalID: -3033124629929539048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_119
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 741
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044ed61cd10846fc0800000000000000
+      internalID: -3502533744899791808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_120
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 717
+        width: 254
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349cb8e592d54840800000000000000
+      internalID: 5207800085420479546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 741
+        width: 142
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb0cbe4286cba60800000000000000
+      internalID: 7691136771425352781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_122
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 741
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdc8fc2bca326f30800000000000000
+      internalID: 4567277616414379513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_123
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 715
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe53d5f7f9b75850800000000000000
+      internalID: 6365761072943816383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_124
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 641
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a977ca96ca64cd0800000000000000
+      internalID: -2574180567130596846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_125
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 638
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b747a821876ed600800000000000000
+      internalID: 494946813487826873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 637
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bd16385079da1f0800000000000000
+      internalID: -1032002689663116484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_127
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 637
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28902e1dc0118260800000000000000
+      internalID: 7097972960872405035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 641
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974aefecc11474fc0800000000000000
+      internalID: -3510765792524327815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_129
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 633
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b738d8b0c3c03e70800000000000000
+      internalID: 9092982880163346360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_130
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 631
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56db6838b6d5ff890800000000000000
+      internalID: -7422110944533758619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_131
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 631
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a047fb6cbe5c7d0800000000000000
+      internalID: -2898651546294941101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_132
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 675
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d33792dab220d80800000000000000
+      internalID: -8286012341683536485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_133
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 649
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498604e06c610500800000000000000
+      internalID: 360688608564644166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_134
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 645
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38acb16eea8f790800000000000000
+      internalID: -7496049276426222667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 613
+        width: 73
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729435cebfc2ea990800000000000000
+      internalID: -7372906079445628633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_136
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 613
+        width: 60
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b382406795d61d0800000000000000
+      internalID: -3355927783910392944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_137
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 573
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84156ba6ce5d08440800000000000000
+      internalID: 4936180402977395016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_138
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 573
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a13e529fab7990800000000000000
+      internalID: -7387117720590769967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_139
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 581
+        width: 85
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411703fd2ea6143e0800000000000000
+      internalID: -2071256830974070508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_140
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 515
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e87a0d81af52910800000000000000
+      internalID: 1812129409573293589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_141
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 515
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd069f396d0558b80800000000000000
+      internalID: -8393213447999233828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_142
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 514
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ec99597cc510f0800000000000000
+      internalID: -1146785708529359005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 514
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7388aa15c8529b0800000000000000
+      internalID: -5105520320173295646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_144
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 515
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7111d85ed9016d0800000000000000
+      internalID: -3021741740725823560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_145
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 515
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171d8b63d144b3f0800000000000000
+      internalID: -886010850386831596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_146
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 560
+        width: 76
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6330696b5e2489f0800000000000000
+      internalID: -467197491194875025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_147
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 537
+        width: 85
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67973f0b8c74c5c00800000000000000
+      internalID: 890665753600293238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_148
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 515
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5931419ce1d89b0800000000000000
+      internalID: -5076367356002593293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_149
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 514
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b00f5c39956efc0800000000000000
+      internalID: -3465984371999110258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_150
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 515
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0a7b35a729c660800000000000000
+      internalID: 7406494652808432997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_151
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 514
+        width: 166
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209246edc41d53660800000000000000
+      internalID: 7365022893713139970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_152
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 515
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461024c188d7dd3f0800000000000000
+      internalID: -874404729096896156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_153
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 515
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069cd98aa1a3872b0800000000000000
+      internalID: -5586651451580626592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_154
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 515
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700792a44bfe3380800000000000000
+      internalID: -8989471533980778380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 515
+        width: 69
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3c652c209e6fc0800000000000000
+      internalID: -3499701341139484725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_156
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 542
+        width: 77
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4352a4cbbefdda660800000000000000
+      internalID: 7398815966408877364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_157
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 524
+        width: 83
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b176264a9a89c7b0800000000000000
+      internalID: -5203475499243376203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_158
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 477
+        width: 92
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d120f3844290170800000000000000
+      internalID: 8145081293789601057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 368
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a7ae357182cdf90800000000000000
+      internalID: -6927618046145430898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_160
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 369
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569d74c3d486ea80800000000000000
+      internalID: -8437910806762514860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_161
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 369
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62acb3517c201d250800000000000000
+      internalID: 5967554035320605222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_162
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 367
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7248a5aabc96280800000000000000
+      internalID: -9049478043700811835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_163
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 369
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a602ad952a5020800000000000000
+      internalID: 2331217116076090752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_164
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 369
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf14a521528e5a0800000000000000
+      internalID: -6491898102100656988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_165
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 369
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1260c6307496065a0800000000000000
+      internalID: -6530103705966213599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_166
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 369
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af97972065fdaa90800000000000000
+      internalID: -7300909627567792218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_167
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 369
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3796badc0f7b88e0800000000000000
+      internalID: -1690117541961754817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_168
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 369
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d5857cdb525a9b0800000000000000
+      internalID: -5069604308512121584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_169
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 369
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfee996898a06250800000000000000
+      internalID: 5935929681434832844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_170
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 369
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a91c08c9aff160800000000000000
+      internalID: 7061549417401787687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_171
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 396
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69400409559ea2b10800000000000000
+      internalID: 1957633541747508374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_172
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 371
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04848158874aed020800000000000000
+      internalID: 2368511291579451456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_173
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 369
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f170f737bfedab0800000000000000
+      internalID: -4981267664354205840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_174
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 368
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44786242e6d17a5e0800000000000000
+      internalID: -1898516359023261884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_175
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 369
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5c536eb5bcad890800000000000000
+      internalID: -7432404639456836136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_176
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 369
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea37e86b90a6c4140800000000000000
+      internalID: 4705252300645364654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_177
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 369
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab79091144685370800000000000000
+      internalID: 8311503343067954081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_178
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 369
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f110676bb5a9ee200800000000000000
+      internalID: 211275951226880287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_179
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 369
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3be7e60768932f50800000000000000
+      internalID: 6855490626052942650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_180
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 410
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb9dcb911371600800000000000000
+      internalID: 438873475304242319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_181
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 369
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96926f64d80d11270800000000000000
+      internalID: 8219580100127369577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_182
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 369
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1e0068df5ae01d0800000000000000
+      internalID: -3382583761815150151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_183
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 258
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e90d4026ce91ae0800000000000000
+      internalID: -1577970288684917120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_184
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 267
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67761c8c298a55b80800000000000000
+      internalID: -8406627781030353034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_185
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 248
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae9922f7d5b07c0800000000000000
+      internalID: -4104083834795332918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_186
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 247
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f72fe0ad5165be50800000000000000
+      internalID: 6824467865109735413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_187
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 247
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bf32d58848c2dd0800000000000000
+      internalID: -2509485171139150968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_188
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 243
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a41d47d7a932690800000000000000
+      internalID: -7628083480214025681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_189
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 213
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26b66f12fb422dd0800000000000000
+      internalID: -2512362138838321620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_190
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 141
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d36587b67f7d070800000000000000
+      internalID: 8131239693193198873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_191
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 141
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe9902498686bd0800000000000000
+      internalID: -2636742596414017755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 141
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c680fca3acb258b0800000000000000
+      internalID: -5164858411473402173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_193
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 141
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2131dd8b44699e0e0800000000000000
+      internalID: -2240094117736672494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_194
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f984c208a6ec230800000000000000
+      internalID: 3660980645830107013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_195
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 140
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b4156c4c1d6e30800000000000000
+      internalID: 4498282717251940924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_196
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 141
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df701ea42b19abf0800000000000000
+      internalID: -312688854772449326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_197
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 139
+        width: 138
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219c8604f8a07e10800000000000000
+      internalID: 2193438784564793647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_198
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 99
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadcbd8e0590b6780800000000000000
+      internalID: -8688840812972487254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_199
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 69
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e40d014661a54f0800000000000000
+      internalID: -839333761516548495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_200
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 63
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef4c01b4d0a4ee0800000000000000
+      internalID: -1276192928351060377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_201
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 62
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f5ca005cf99110800000000000000
+      internalID: 1268322190789832920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_202
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 83
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6477cccbf08ac4f80800000000000000
+      internalID: -8120931242510354618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_203
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 77
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f626efa2cff5e1830800000000000000
+      internalID: 4043775052082995823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_204
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 42
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e099534fff2b1d30800000000000000
+      internalID: 4403165834077901028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_205
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 79
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f936826dcc519c0800000000000000
+      internalID: -3957031477402427573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_206
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 75
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4623a2b9feb6a60800000000000000
+      internalID: 7668486240235316469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_207
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04622b6d80861130800000000000000
+      internalID: 3537155902222263309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_208
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 38
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbdc0bc6a353a450800000000000000
+      internalID: 6098810296226077691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1103
+        width: 51
+        height: 55
+      alignment: 9
+      pivot: {x: 0.7163292, y: 0.55338466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bbc652684dac944b5dbeb09c4cbd49
+      internalID: -2943153103954351419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1103
+        width: 65
+        height: 53
+      alignment: 9
+      pivot: {x: 0.62295485, y: 0.5928011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e56b52d9af1be4798e42b03fbc126f
+      internalID: 5996202635061326805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d2a0805312feb54c94f7b79e19a0763
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_0: -2943153103954351419
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_1: 5996202635061326805
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_10: 8753344887971010347
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_100: -7329187220350608761
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_101: 4428547424663868327
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_102: 447398417858643595
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_103: -1634554243139890145
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_104: 7016261907311512869
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_105: -1376175816364461242
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_106: 1229777443955781216
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_107: 2292921317727785833
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_108: -2465586707475535425
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_109: -1694601193054859184
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_11: -374988535513359913
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_110: 1978819859015952484
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_111: 4252973655276966848
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_112: 208036200526360093
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_113: 2139415002137631874
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_114: -3725898397543817550
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_115: 3487165798842716118
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_116: 6372072616194213089
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_117: 505882114165758348
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_118: -3033124629929539048
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_119: -3502533744899791808
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_12: -9066506867565759441
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_120: 5207800085420479546
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_121: 7691136771425352781
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_122: 4567277616414379513
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_123: 6365761072943816383
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_124: -2574180567130596846
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_125: 494946813487826873
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_126: -1032002689663116484
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_127: 7097972960872405035
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_128: -3510765792524327815
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_129: 9092982880163346360
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_13: -5659414910416865927
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_130: -7422110944533758619
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_131: -2898651546294941101
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_132: -8286012341683536485
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_133: 360688608564644166
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_134: -7496049276426222667
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_135: -7372906079445628633
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_136: -3355927783910392944
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_137: 4936180402977395016
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_138: -7387117720590769967
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_139: -2071256830974070508
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_14: -8437977640234120166
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_140: 1812129409573293589
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_141: -8393213447999233828
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_142: -1146785708529359005
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_143: -5105520320173295646
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_144: -3021741740725823560
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_145: -886010850386831596
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_146: -467197491194875025
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_147: 890665753600293238
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_148: -5076367356002593293
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_149: -3465984371999110258
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_15: -276553749321411158
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_150: 7406494652808432997
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_151: 7365022893713139970
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_152: -874404729096896156
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_153: -5586651451580626592
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_154: -8989471533980778380
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_155: -3499701341139484725
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_156: 7398815966408877364
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_157: -5203475499243376203
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_158: 8145081293789601057
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_159: -6927618046145430898
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_16: 5669642114068273008
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_160: -8437910806762514860
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_161: 5967554035320605222
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_162: -9049478043700811835
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_163: 2331217116076090752
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_164: -6491898102100656988
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_165: -6530103705966213599
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_166: -7300909627567792218
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_167: -1690117541961754817
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_168: -5069604308512121584
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_169: 5935929681434832844
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_17: -3943118010180333674
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_170: 7061549417401787687
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_171: 1957633541747508374
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_172: 2368511291579451456
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_173: -4981267664354205840
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_174: -1898516359023261884
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_175: -7432404639456836136
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_176: 4705252300645364654
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_177: 8311503343067954081
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_178: 211275951226880287
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_179: 6855490626052942650
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_18: 3235854918793815400
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_180: 438873475304242319
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_181: 8219580100127369577
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_182: -3382583761815150151
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_183: -1577970288684917120
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_184: -8406627781030353034
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_185: -4104083834795332918
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_186: 6824467865109735413
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_187: -2509485171139150968
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_188: -7628083480214025681
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_189: -2512362138838321620
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_19: -5737277470443037102
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_190: 8131239693193198873
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_191: -2636742596414017755
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_192: -5164858411473402173
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_193: -2240094117736672494
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_194: 3660980645830107013
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_195: 4498282717251940924
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_196: -312688854772449326
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_197: 2193438784564793647
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_198: -8688840812972487254
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_199: -839333761516548495
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_2: -6476771820614896864
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_20: 984294018852257711
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_200: -1276192928351060377
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_201: 1268322190789832920
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_202: -8120931242510354618
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_203: 4043775052082995823
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_204: 4403165834077901028
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_205: -3957031477402427573
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_206: 7668486240235316469
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_207: 3537155902222263309
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_208: 6098810296226077691
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_21: 1174689659772070930
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_22: 8342147176895536526
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_23: -6293185122581760783
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_24: -5741365248171182896
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_25: -6916692602609103553
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_26: 7892438003808519715
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_27: 7826546572813760115
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_28: -2225895972149540751
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_29: 4842346647081694000
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_3: -6641434560439990561
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_30: 9195121632082097863
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_31: -969928838860859687
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_32: -3726752127226103711
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_33: -1322911968407070950
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_34: 4417504434798135515
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_35: 596335908725585950
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_36: 1711288118642761858
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_37: -8511791403999645621
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_38: -6877064820818542725
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_39: -5253200986406758455
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_4: 6548520790713638595
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_40: 3184307451592107282
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_41: -1043145074820860633
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_42: -4333920555205687352
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_43: -1258622093871414229
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_44: 2214851208347541187
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_45: -7657373652744224497
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_46: 3748577346378912418
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_47: 1304472167154189085
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_48: 7833831830427602710
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_49: 2880491514139485793
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_5: 4233082178882524504
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_50: 5080571791455902472
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_51: 5082344031483667602
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_52: -1157116665010497946
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_53: -3738903061904239015
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_54: 1212040999924655261
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_55: 742077016427023072
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_56: 7037364375301104622
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_57: 9047733907681003646
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_58: 2152903622255262234
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_59: -2879983926705894610
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_6: 5159991011110269247
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_60: -4885179824170730950
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_61: 2211757194412701000
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_62: 689326455244343614
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_63: -7589583414481985563
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_64: -3418638236165041715
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_65: 7587341885186274392
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_66: -3985870326401257090
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_67: 2215015456387555015
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_68: -3852865716590083858
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_69: 8669234227288909648
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_7: -2357821094654113938
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_70: -7992139136411407013
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_71: -7052085969952605364
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_72: -4098613752386456068
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_73: -3804761168046776839
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_74: 7566084348279819553
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_75: 407606044405157643
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_76: -2466797060074049271
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_77: -7553391863911454567
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_78: 1572565668007920773
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_79: -4757671554682993897
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_8: -2499481141883352039
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_80: -3200219414787404788
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_81: -2705978702506595345
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_82: -7187071321913384574
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_83: 7061516655533827599
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_84: -3582752703964391104
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_85: 3066027234604787755
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_86: 2773881257143118853
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_87: 4636057232688284485
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_88: 6734269148027439481
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_89: 6527026509607419141
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_9: 5903392601737542500
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_90: 6939257339063087765
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_91: -5311545998083211244
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_92: 8925427703709925191
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_93: 6794642524264170623
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_94: -3048018592253269067
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_95: -4316907478571697548
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_96: -7416972463013566826
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_97: 2925771134434698793
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_98: -8356713758676760329
+      kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_99: 5846738819304114884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
