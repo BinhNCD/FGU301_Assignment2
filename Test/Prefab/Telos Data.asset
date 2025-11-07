@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b9499e62a6f0542868ce2bc675a666, type: 3}
+  m_Name: Telos Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Telos
+  characterPrefab: {fileID: 4513342226359919660, guid: 709f6349810940444ac8551196b8302c, type: 3}
+  animatorOverride: {fileID: 22100000, guid: 653f8ef06e445874bb48208f42e95f18, type: 2}
+  moveSpeed: 10
+  jumpForce: 30
+  maxHealth: 100
+  groundNormalAttacks:
+  - animationTriggerName: 
+    damage: 0
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0
+    offsetY: 0
+    sizeX: 0
+    sizeY: 0
+  - animationTriggerName: Attack1
+    damage: 10
+    attackThrust: 9.25
+    hitActiveDuration: 0
+    offsetX: 0.3770688
+    offsetY: 0.1143921
+    sizeX: 0.7382333
+    sizeY: 0.2599573
+  - animationTriggerName: Attack2
+    damage: 10
+    attackThrust: 9.25
+    hitActiveDuration: 0
+    offsetX: 0.2697538
+    offsetY: -0.3554408
+    sizeX: 0.5236033
+    sizeY: 0.5618657
+  - animationTriggerName: Attack3
+    damage: 10
+    attackThrust: 9.5
+    hitActiveDuration: 0
+    offsetX: 0.3126798
+    offsetY: -0.120881
+    sizeX: 0.6278521
+    sizeY: 0.4238893
+  - animationTriggerName: Attack4
+    damage: 10
+    attackThrust: 9.25
+    hitActiveDuration: 0
+    offsetX: 0.232529
+    offsetY: 0.2084346
+    sizeX: 0.5163378
+    sizeY: 0.6364635
+  airNormalAttacks:
+  - animationTriggerName: 
+    damage: 0
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0
+    offsetY: 0
+    sizeX: 0
+    sizeY: 0
+  - animationTriggerName: 
+    damage: 0
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0
+    offsetY: 0
+    sizeX: 0
+    sizeY: 0
+  - animationTriggerName: AAttack2
+    damage: 10
+    attackThrust: 9.25
+    hitActiveDuration: 0
+    offsetX: 0.1428225
+    offsetY: -0.3122169
+    sizeX: 1.285645
+    sizeY: 0.2825659
+  - animationTriggerName: AAttack3
+    damage: 10
+    attackThrust: 9.25
+    hitActiveDuration: 0
+    offsetX: 0.1594297
+    offsetY: -0.2690381
+    sizeX: 1.039857
+    sizeY: 0.7542126
+  - animationTriggerName: AAttack4
+    damage: 10
+    attackThrust: 9.25
+    hitActiveDuration: 0
+    offsetX: 0.4118601
+    offsetY: -0.08967954
+    sizeX: 0.8405699
+    sizeY: 1.11293
+  skills:
+  - skillName: 
+    skillAnimationTriggerName: 
+    cooldownTime: 0
+    attackSequence: []
+  - skillName: L-Blade
+    skillAnimationTriggerName: Skill1
+    cooldownTime: 10
+    attackSequence:
+    - animationTriggerName: 
+      damage: 0
+      attackThrust: 0
+      hitActiveDuration: 0
+      offsetX: 0
+      offsetY: 0
+      sizeX: 0
+      sizeY: 0
+    - animationTriggerName: Skill1
+      damage: 50
+      attackThrust: 9
+      hitActiveDuration: 0.08
+      offsetX: 0.4347747
+      offsetY: -0.05009968
+      sizeX: 0.8863991
+      sizeY: 0.2921678
+    - animationTriggerName: Skill1
+      damage: 50
+      attackThrust: 9
+      hitActiveDuration: 0.08
+      offsetX: 0.6493393
+      offsetY: 0.04780851
+      sizeX: 1.315528
+      sizeY: 0.2630036
+    - animationTriggerName: Skill1
+      damage: 50
+      attackThrust: 9
+      hitActiveDuration: 0.08
+      offsetX: 0.2618729
+      offsetY: 0.4051266
+      sizeX: 1.83215
+      sizeY: 0.9776399
+  - skillName: Echidna
+    skillAnimationTriggerName: Skill2
+    cooldownTime: 10
+    attackSequence:
+    - animationTriggerName: 
+      damage: 0
+      attackThrust: 0
+      hitActiveDuration: 0
+      offsetX: 0
+      offsetY: 0
+      sizeX: 0
+      sizeY: 0
+    - animationTriggerName: Skill2
+      damage: 50
+      attackThrust: 20
+      hitActiveDuration: 0.08
+      offsetX: 0.08215937
+      offsetY: -0.1317388
+      sizeX: 1.472723
+      sizeY: 0.8957449
+    - animationTriggerName: Skill2
+      damage: 50
+      attackThrust: 20
+      hitActiveDuration: 0.08
+      offsetX: 0.5030074
+      offsetY: 0.01840162
+      sizeX: 0.8494131
+      sizeY: 0.3133822

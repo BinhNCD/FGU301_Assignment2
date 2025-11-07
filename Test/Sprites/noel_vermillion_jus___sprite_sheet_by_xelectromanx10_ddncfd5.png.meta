@@ -1,0 +1,5980 @@
+fileFormatVersion: 2
+guid: d61705d8d0ea9054980cdc31db18ca93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6498610428828611880
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_0
+  - first:
+      213: 6029104326327822678
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_1
+  - first:
+      213: -2336694110901918729
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_2
+  - first:
+      213: -2363109733502537979
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_3
+  - first:
+      213: -4254668841668641284
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_4
+  - first:
+      213: -2063383308831384227
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_5
+  - first:
+      213: -5416296040589125286
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_6
+  - first:
+      213: -6621922078073974595
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_7
+  - first:
+      213: -8106724897375797644
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_8
+  - first:
+      213: 379867162285863795
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_9
+  - first:
+      213: -2642793688945185332
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_10
+  - first:
+      213: 2082621981134818108
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_11
+  - first:
+      213: -625914798412742312
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_12
+  - first:
+      213: 3396258034913991226
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_13
+  - first:
+      213: 1256150291948500448
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_14
+  - first:
+      213: 4696908598561137477
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_15
+  - first:
+      213: -7097342709308240802
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_16
+  - first:
+      213: 3736501906121022922
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_17
+  - first:
+      213: 5997909863109234318
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_18
+  - first:
+      213: 8411522340571909731
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_19
+  - first:
+      213: 1323494934897574295
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_20
+  - first:
+      213: 2245427664873784760
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_21
+  - first:
+      213: 5600540793389039187
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_22
+  - first:
+      213: 1943458997634312369
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_23
+  - first:
+      213: -5491227304974888331
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_24
+  - first:
+      213: 8958415387407836442
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_25
+  - first:
+      213: -7071749813791096723
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_26
+  - first:
+      213: 7513817013370927239
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_27
+  - first:
+      213: -1184404838964577184
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_28
+  - first:
+      213: -7086230396391237853
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_29
+  - first:
+      213: -2676603455590895417
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_30
+  - first:
+      213: -8441810125572472716
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_31
+  - first:
+      213: 6535613554786117625
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_32
+  - first:
+      213: -1113448829538367794
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_33
+  - first:
+      213: 662662112512101810
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_34
+  - first:
+      213: -2799490681591077380
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_35
+  - first:
+      213: 8955390818578356375
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_36
+  - first:
+      213: -1760772636475912431
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_37
+  - first:
+      213: 3154285483508666601
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_38
+  - first:
+      213: -2625049042705027700
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_39
+  - first:
+      213: -1469176436387613357
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_40
+  - first:
+      213: 9000805403269827454
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_41
+  - first:
+      213: 6545950155888115643
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_42
+  - first:
+      213: 5668182262189933185
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_43
+  - first:
+      213: -3721170894275871864
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_44
+  - first:
+      213: 5799481266659470147
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_45
+  - first:
+      213: -5438029896858778570
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_46
+  - first:
+      213: -4386371234941509786
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_47
+  - first:
+      213: 5179125881916132325
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_48
+  - first:
+      213: 3666369781356181499
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_49
+  - first:
+      213: -4767799458963846727
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_50
+  - first:
+      213: -2713511414481045657
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_51
+  - first:
+      213: 6018981959322233859
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_52
+  - first:
+      213: -2618454114965106069
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_53
+  - first:
+      213: -8525277502089413767
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_54
+  - first:
+      213: 6532757285014590586
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_55
+  - first:
+      213: -3008178715629219231
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_56
+  - first:
+      213: 166150476955868284
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_57
+  - first:
+      213: 7358126534519147791
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_58
+  - first:
+      213: -3734755229889140627
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_59
+  - first:
+      213: -2893899661102270656
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_60
+  - first:
+      213: -3115998614923770676
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_61
+  - first:
+      213: -8249956442190300122
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_62
+  - first:
+      213: 7963455209267966839
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_63
+  - first:
+      213: -9008784636330612797
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_64
+  - first:
+      213: 8379821566098923874
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_65
+  - first:
+      213: 5616957533335296781
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_66
+  - first:
+      213: 1126236982318189760
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_67
+  - first:
+      213: -8182209177051977466
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_68
+  - first:
+      213: -5596899114376622156
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_69
+  - first:
+      213: -1163081008177514313
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_70
+  - first:
+      213: -2549788011719365842
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_71
+  - first:
+      213: 4713264240241262287
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_72
+  - first:
+      213: 5641743059806646472
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_73
+  - first:
+      213: -3528812234809400372
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_74
+  - first:
+      213: -6356372720451647608
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_75
+  - first:
+      213: 350419845321619642
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_76
+  - first:
+      213: -8126204578097270180
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_77
+  - first:
+      213: 1050202447694954110
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_78
+  - first:
+      213: -6966381632976918919
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_79
+  - first:
+      213: 1334480490114351298
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_80
+  - first:
+      213: 4656009851122426584
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_81
+  - first:
+      213: -4527040439357670690
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_82
+  - first:
+      213: -7069246051700398247
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_83
+  - first:
+      213: -1995755234991418295
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_84
+  - first:
+      213: 5570808897535073231
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_85
+  - first:
+      213: -6100881146500703767
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_86
+  - first:
+      213: -5071961356930401901
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_87
+  - first:
+      213: -3636682198148702180
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_88
+  - first:
+      213: 5077431794657626170
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_89
+  - first:
+      213: -3320727792064361689
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_90
+  - first:
+      213: -7975353642253845308
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_91
+  - first:
+      213: 8612051069172974088
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_92
+  - first:
+      213: 3749445139133942935
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_93
+  - first:
+      213: -2136288673867009795
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_94
+  - first:
+      213: -752799420668518022
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_95
+  - first:
+      213: 4130064691401068700
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_96
+  - first:
+      213: 5342603135332723710
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_97
+  - first:
+      213: -7042256523114317041
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_98
+  - first:
+      213: 8443611984517868746
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_99
+  - first:
+      213: 5163656627381552022
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_100
+  - first:
+      213: -7455189973960291036
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_101
+  - first:
+      213: 376275255495097870
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_102
+  - first:
+      213: 3484918066020745663
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_103
+  - first:
+      213: -819473275834463611
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_104
+  - first:
+      213: 4238703726681147896
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_105
+  - first:
+      213: 2766386574205737445
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_106
+  - first:
+      213: -2251991862347908293
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_107
+  - first:
+      213: -9205594135088988264
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_108
+  - first:
+      213: 2484673962286889856
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_109
+  - first:
+      213: 3901998466416600220
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_110
+  - first:
+      213: -4594186694356238141
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_111
+  - first:
+      213: -2790816016380957023
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_112
+  - first:
+      213: -3269450979188095939
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_113
+  - first:
+      213: -3075788518964885631
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_114
+  - first:
+      213: -2925244335418978680
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_115
+  - first:
+      213: -3195534312665561171
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_116
+  - first:
+      213: 3253350122006800460
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_117
+  - first:
+      213: 4999598077352301804
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_118
+  - first:
+      213: -6404281848415515736
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_119
+  - first:
+      213: 5982092553733109228
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_120
+  - first:
+      213: 5825896955005760532
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_121
+  - first:
+      213: -2551079515214603930
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_122
+  - first:
+      213: 6288445972608256673
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_123
+  - first:
+      213: -1383741023709451356
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_124
+  - first:
+      213: -3173355180432460579
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_125
+  - first:
+      213: 9041286119738786395
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_126
+  - first:
+      213: 5287984778896135265
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_127
+  - first:
+      213: 4269735388135193537
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_128
+  - first:
+      213: -1587745294004672977
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_129
+  - first:
+      213: 1867941052103201873
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_130
+  - first:
+      213: -6068616591662592110
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_131
+  - first:
+      213: 6057103474926899227
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_132
+  - first:
+      213: -5302308470863377792
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_133
+  - first:
+      213: -6620752957713545879
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_134
+  - first:
+      213: -3255466803441488340
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_135
+  - first:
+      213: 2593382013216991997
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_136
+  - first:
+      213: 1506579967949448901
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_137
+  - first:
+      213: -1512278629330402721
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_138
+  - first:
+      213: 1475110464326037870
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_139
+  - first:
+      213: 7287830004928664371
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_140
+  - first:
+      213: -2056298991414625404
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_141
+  - first:
+      213: -416946759116480905
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_142
+  - first:
+      213: 6383552909024172807
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_143
+  - first:
+      213: 5931887997676184701
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_144
+  - first:
+      213: -756222518258706613
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_145
+  - first:
+      213: -4233231587102095108
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_146
+  - first:
+      213: -7525941266847636505
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_147
+  - first:
+      213: 256890840097749928
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_148
+  - first:
+      213: 4601787167903245389
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_149
+  - first:
+      213: -2802509154341670897
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_150
+  - first:
+      213: 3940535046292532335
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_151
+  - first:
+      213: -1750592489385431627
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_152
+  - first:
+      213: -8676589459498476268
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_153
+  - first:
+      213: 3019088645469731268
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_154
+  - first:
+      213: 3738462660219799910
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_155
+  - first:
+      213: 399457808551652916
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_156
+  - first:
+      213: -4438360080617355179
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_157
+  - first:
+      213: -1206562211061177424
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_158
+  - first:
+      213: -6804229165391057901
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_159
+  - first:
+      213: -6829704823934268222
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_160
+  - first:
+      213: -7548211202141678463
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_161
+  - first:
+      213: -3180673930014877697
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_162
+  - first:
+      213: 8149493375486853588
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_163
+  - first:
+      213: -5725892409876604979
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_164
+  - first:
+      213: -9066693642803195490
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_165
+  - first:
+      213: -5603014771176191332
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_166
+  - first:
+      213: -3747334216897349541
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_167
+  - first:
+      213: -7872766341235821503
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_168
+  - first:
+      213: -8760313993904379209
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_169
+  - first:
+      213: 7712250120689500318
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_170
+  - first:
+      213: 2379857002860512148
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_171
+  - first:
+      213: -2786572141720636228
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_172
+  - first:
+      213: -4955121017167977088
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_173
+  - first:
+      213: -7475484686199978425
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_174
+  - first:
+      213: 6623314286040876124
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_175
+  - first:
+      213: 7660107476052816420
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_176
+  - first:
+      213: 5094172267731452906
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_177
+  - first:
+      213: -6791781043021204595
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_178
+  - first:
+      213: 7936324653366723272
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_179
+  - first:
+      213: -3974448260721471812
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_180
+  - first:
+      213: 6712569866271094304
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_181
+  - first:
+      213: -4250450173152773095
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_182
+  - first:
+      213: 8273809399196167720
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_183
+  - first:
+      213: -1261077921166358744
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_184
+  - first:
+      213: 2190739901753588170
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_185
+  - first:
+      213: 8508049314298836646
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_186
+  - first:
+      213: -7302240895288790692
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_187
+  - first:
+      213: -2059925568817922076
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_188
+  - first:
+      213: 7181198509911895511
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_189
+  - first:
+      213: 2225549944420062172
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_190
+  - first:
+      213: -2335272086550782867
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_191
+  - first:
+      213: 2455536225419091225
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_192
+  - first:
+      213: -3687357082366333795
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_193
+  - first:
+      213: 6739088518433816129
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_194
+  - first:
+      213: 894832008181499596
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_195
+  - first:
+      213: 4039499072688670252
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_196
+  - first:
+      213: -2029376157944236111
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_197
+  - first:
+      213: 1995806511138734482
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_198
+  - first:
+      213: -5176869838976239855
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_199
+  - first:
+      213: 4516504617132914676
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_200
+  - first:
+      213: -8167444401968133181
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_201
+  - first:
+      213: 2481578877870519810
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_202
+  - first:
+      213: -7273810670400440273
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_203
+  - first:
+      213: -5283962157331016412
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_204
+  - first:
+      213: 1200542346886901537
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_205
+  - first:
+      213: 389917296361862612
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_206
+  - first:
+      213: -8668561433717093450
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_207
+  - first:
+      213: -1350826950883729824
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_208
+  - first:
+      213: 104014366480264951
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_209
+  - first:
+      213: -3435132950294634790
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_210
+  - first:
+      213: 6789593128941067022
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_211
+  - first:
+      213: 7971143961471008245
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_212
+  - first:
+      213: 1059678416550065192
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_213
+  - first:
+      213: 4184688691689622184
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_214
+  - first:
+      213: -8274932710005758975
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_215
+  - first:
+      213: -9051546766868618620
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_216
+  - first:
+      213: -605171691926791199
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_217
+  - first:
+      213: 6545919971719768091
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_218
+  - first:
+      213: 599973717743850944
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_219
+  - first:
+      213: 3374509092365111677
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_220
+  - first:
+      213: -4757606179232597543
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_221
+  - first:
+      213: -8692555232473770559
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_222
+  - first:
+      213: 1671712954993460495
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_223
+  - first:
+      213: 1642742361614881101
+    second: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_224
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1854
+        width: 193
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da85000f3c40d5a0800000000000000
+      internalID: -6498610428828611880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2064
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6596a84f07eaba350800000000000000
+      internalID: 6029104326327822678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_2
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2048
+        width: 78
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3a1f22615629fd0800000000000000
+      internalID: -2336694110901918729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2064
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f2059b73c843fd0800000000000000
+      internalID: -2363109733502537979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2032
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdfa6f0b3164f4c0800000000000000
+      internalID: -4254668841668641284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_5
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2000
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d92a910d36d53e0800000000000000
+      internalID: -2063383308831384227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_6
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2016
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599456a27375d4b0800000000000000
+      internalID: -5416296040589125286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_7
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1998
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0951654f43a14a0800000000000000
+      internalID: -6621922078073974595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_8
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2016
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eb91838a02f7f80800000000000000
+      internalID: -8106724897375797644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_9
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1998
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37372e5eb2f854500800000000000000
+      internalID: 379867162285863795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_10
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2000
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd27cb5429e25bd0800000000000000
+      internalID: -2642793688945185332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_11
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1865
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b06fa58a5f6ec10800000000000000
+      internalID: 2082621981134818108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_12
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1865
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c2fc9ecd4057f0800000000000000
+      internalID: -625914798412742312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1826
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a5d9840bee12f20800000000000000
+      internalID: 3396258034913991226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1826
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5f710090ebe6110800000000000000
+      internalID: 1256150291948500448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1826
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543e6bf2c75ce2140800000000000000
+      internalID: 4696908598561137477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1748
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c4972c86c218d90800000000000000
+      internalID: -7097342709308240802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1826
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdd9e0dfa8bad330800000000000000
+      internalID: 3736501906121022922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_18
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1826
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e00710e3bdc3350800000000000000
+      internalID: 5997909863109234318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1745
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e0d0aa00bbbb470800000000000000
+      internalID: 8411522340571909731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1745
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791499091affd5210800000000000000
+      internalID: 1323494934897574295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1746
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b503ad709c592f10800000000000000
+      internalID: 2245427664873784760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1745
+        width: 110
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eb90cbd2e19bd40800000000000000
+      internalID: 5600540793389039187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1745
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a78559ad88fa10800000000000000
+      internalID: 1943458997634312369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1745
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572db022cdd3bc3b0800000000000000
+      internalID: -5491227304974888331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1745
+        width: 164
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1566d4c45fa25c70800000000000000
+      internalID: 8958415387407836442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1745
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d600c8813091cdd90800000000000000
+      internalID: -7071749813791096723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1754
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788b24583c0764860800000000000000
+      internalID: 7513817013370927239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_28
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1754
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c334ff216209fe0800000000000000
+      internalID: -1184404838964577184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1745
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327568abff6a8ad90800000000000000
+      internalID: -7086230396391237853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_30
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1746
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0fbe0a65bcadad0800000000000000
+      internalID: -2676603455590895417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1745
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47005fbda6aa8da80800000000000000
+      internalID: -8441810125572472716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1750
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72142a6e923ba50800000000000000
+      internalID: 6535613554786117625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_33
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1750
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68ac7503c3c80f0800000000000000
+      internalID: -1113448829538367794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_34
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1749
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdc46e2eaf323900800000000000000
+      internalID: 662662112512101810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1720
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf56fb3be063629d0800000000000000
+      internalID: -2799490681591077380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1720
+        width: 115
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79858267080f74c70800000000000000
+      internalID: 8955390818578356375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1635
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f00a8bd9a7097e0800000000000000
+      internalID: -1760772636475912431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1635
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e094b46fe546cb20800000000000000
+      internalID: 3154285483508666601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1634
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d6693cdc3f19bd0800000000000000
+      internalID: -2625049042705027700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1635
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355fdbca0df6c9be0800000000000000
+      internalID: -1469176436387613357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1635
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b805273d849ec70800000000000000
+      internalID: 9000805403269827454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1642
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfbf1f1cf2e7da50800000000000000
+      internalID: 6545950155888115643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1639
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18240047cbd69ae40800000000000000
+      internalID: 5668182262189933185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1624
+        width: 117
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bf92a89cebb5cc0800000000000000
+      internalID: -3721170894275871864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1635
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b25cc2c75eb7050800000000000000
+      internalID: 5799481266659470147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1635
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63447c7ee9c3884b0800000000000000
+      internalID: -5438029896858778570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_47
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1610
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fd1501a9a7023c0800000000000000
+      internalID: -4386371234941509786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1611
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb84a6ac83ffd740800000000000000
+      internalID: 5179125881916132325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1610
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf736f014ef81e230800000000000000
+      internalID: 3666369781356181499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1526
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9092827af55ddb0800000000000000
+      internalID: -4767799458963846727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1526
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767b3edcebba75ad0800000000000000
+      internalID: -2713511414481045657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1526
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ce2eab338b78350800000000000000
+      internalID: 6018981959322233859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1526
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6258d80bd169abd0800000000000000
+      internalID: -2618454114965106069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_54
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1526
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb45cd74120b980800000000000000
+      internalID: -8525277502089413767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1526
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d321832409aa50800000000000000
+      internalID: 6532757285014590586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1526
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162970a656dc046d0800000000000000
+      internalID: -3008178715629219231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1526
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c573e7af84e4200800000000000000
+      internalID: 166150476955868284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_58
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1526
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dc36e19115d1660800000000000000
+      internalID: 7358126534519147791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1527
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68ec6fe7eb7b2cc0800000000000000
+      internalID: -3734755229889140627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_60
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1526
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047306c379dc6d7d0800000000000000
+      internalID: -2893899661102270656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1526
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc40cdcd4cfb1c4d0800000000000000
+      internalID: -3115998614923770676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_62
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1526
+        width: 107
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3dc27354428d80800000000000000
+      internalID: -8249956442190300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_63
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1524
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b6251250e38e60800000000000000
+      internalID: 7963455209267966839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_64
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1524
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c764859a1e5af280800000000000000
+      internalID: -9008784636330612797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_65
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1526
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261eb70f05b1b4470800000000000000
+      internalID: 8379821566098923874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_66
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1502
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b97ecdd1173fd40800000000000000
+      internalID: 5616957533335296781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1502
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cccbff719231af00800000000000000
+      internalID: 1126236982318189760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_68
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1412
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60920ebca14f27e80800000000000000
+      internalID: -8182209177051977466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_69
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1412
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf02ebb8e1d352b0800000000000000
+      internalID: -5596899114376622156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1422
+        width: 173
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8739e3cf7ebdfe0800000000000000
+      internalID: -1163081008177514313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1424
+        width: 256
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2beaec00555d9cd0800000000000000
+      internalID: -2549788011719365842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_72
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1424
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb124cad0e86140800000000000000
+      internalID: 4713264240241262287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1424
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0fcc1fb6f7b4e40800000000000000
+      internalID: 5641743059806646472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1424
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3222908f3270fc0800000000000000
+      internalID: -3528812234809400372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_75
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1422
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8870f7130b0a9c7a0800000000000000
+      internalID: -6356372720451647608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_76
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1421
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab874a22ef0fcd400800000000000000
+      internalID: 350419845321619642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_77
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1469
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fb5e9dfbe93f80800000000000000
+      internalID: -8126204578097270180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_78
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1427
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7a1ddf81139e00800000000000000
+      internalID: 1050202447694954110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_79
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1462
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ea9470d0725f90800000000000000
+      internalID: -6966381632976918919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_80
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1420
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c084f47fe6058210800000000000000
+      internalID: 1334480490114351298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_81
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1424
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22fde7a487d9040800000000000000
+      internalID: 4656009851122426584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1392
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaf148a4b8bc21c0800000000000000
+      internalID: -4527040439357670690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_83
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1392
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957a092ab2ef4ed90800000000000000
+      internalID: -7069246051700398247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1302
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d5bf0037ad44e0800000000000000
+      internalID: -1995755234991418295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1302
+        width: 178
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbd9294d2d7f4d40800000000000000
+      internalID: 5570808897535073231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1302
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e992fdcbe0555ba0800000000000000
+      internalID: -6100881146500703767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_87
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1302
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b7ada406cc99b0800000000000000
+      internalID: -5071961356930401901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_88
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1302
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c102c5a0fc8e78dc0800000000000000
+      internalID: -3636682198148702180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_89
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1302
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3887dbd059a67640800000000000000
+      internalID: 5077431794657626170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_90
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1302
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b8c36caa76ae1d0800000000000000
+      internalID: -3320727792064361689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_91
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1302
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc775b1e1ad15190800000000000000
+      internalID: -7975353642253845308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_92
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1300
+        width: 111
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802049d91d6248770800000000000000
+      internalID: 8612051069172974088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_93
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1302
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc4e61d74b80430800000000000000
+      internalID: 3749445139133942935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_94
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1302
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0777805c06a52e0800000000000000
+      internalID: -2136288673867009795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_95
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1280
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71eee75ae48d85f0800000000000000
+      internalID: -752799420668518022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_96
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1280
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90185e64ffe05930800000000000000
+      internalID: 4130064691401068700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_97
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1190
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2569ce3db42a40800000000000000
+      internalID: 5342603135332723710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1190
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf792f001e44e90800000000000000
+      internalID: -7042256523114317041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1190
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2b6e1d5cbd2570800000000000000
+      internalID: 8443611984517868746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1206
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6934b29285ef8a740800000000000000
+      internalID: 5163656627381552022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1206
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0b0dc738d98890800000000000000
+      internalID: -7455189973960291036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1208
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0efd8de95cc83500800000000000000
+      internalID: 376275255495097870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1208
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb10284648aec5030800000000000000
+      internalID: 3484918066020745663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_104
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1190
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a06fab565a0a4f0800000000000000
+      internalID: -819473275834463611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1166
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f944f0f496e2da30800000000000000
+      internalID: 4238703726681147896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1166
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e951faaeed246620800000000000000
+      internalID: 2766386574205737445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_107
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1168
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bbeaf25515fb0e0800000000000000
+      internalID: -2251991862347908293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_108
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1076
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ff99f48e82f3080800000000000000
+      internalID: -9205594135088988264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1078
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bb5c8edc55b7220800000000000000
+      internalID: 2484673962286889856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1082
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9461e87eeea62630800000000000000
+      internalID: 3901998466416600220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1078
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c00213ea8b2e30c0800000000000000
+      internalID: -4594186694356238141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1076
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae64269e970549d0800000000000000
+      internalID: -2790816016380957023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1053
+        width: 91
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c0fe18a390a2d0800000000000000
+      internalID: -3269450979188095939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_114
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1056
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1878fd263aa9055d0800000000000000
+      internalID: -3075788518964885631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 968
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ec02a86c17767d0800000000000000
+      internalID: -2925244335418978680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 968
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74ff9297e27a3d0800000000000000
+      internalID: -3195534312665561171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_117
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 968
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c486030f2b8362d20800000000000000
+      internalID: 3253350122006800460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 968
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45f4c56f3226540800000000000000
+      internalID: 4999598077352301804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 969
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab06b7179b6f17a0800000000000000
+      internalID: -6404281848415515736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_120
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 968
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce575ceab79a40350800000000000000
+      internalID: 5982092553733109228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_121
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 968
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f525e96eb9d050800000000000000
+      internalID: 5825896955005760532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 989
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699bd572beb89cd0800000000000000
+      internalID: -2551079515214603930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_123
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 990
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0d826b4c054750800000000000000
+      internalID: 6288445972608256673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 944
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba9acced6fbcce0800000000000000
+      internalID: -1383741023709451356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_125
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 946
+        width: 67
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd47d2cc64af5f3d0800000000000000
+      internalID: -3173355180432460579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 947
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5243b7b2d9197d70800000000000000
+      internalID: 9041286119738786395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 852
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164d6c3b322b26940800000000000000
+      internalID: 5287984778896135265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_128
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 862
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb76b6a6b5214b30800000000000000
+      internalID: 4269735388135193537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_129
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 862
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26ad0d311237f9e0800000000000000
+      internalID: -1587745294004672977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_130
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 911
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1541bf77d724ce910800000000000000
+      internalID: 1867941052103201873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_131
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 862
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fc8efdc51f7cba0800000000000000
+      internalID: -6068616591662592110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_132
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 863
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105dceb4872f0450800000000000000
+      internalID: 6057103474926899227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_133
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 866
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ac4a0e98a6a66b0800000000000000
+      internalID: -5302308470863377792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_134
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 866
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650ed1634c5e14a0800000000000000
+      internalID: -6620752957713545879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_135
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 865
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e2bc2c03242d2d0800000000000000
+      internalID: -3255466803441488340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_136
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 829
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaafa0633b8df320800000000000000
+      internalID: 2593382013216991997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 832
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a857af7278e410800000000000000
+      internalID: 1506579967949448901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_138
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 828
+        width: 71
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c859599e430be0800000000000000
+      internalID: -1512278629330402721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_139
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 732
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e617d9ed625a87410800000000000000
+      internalID: 1475110464326037870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_140
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 732
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d433e6c2932560800000000000000
+      internalID: 7287830004928664371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_141
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 732
+        width: 99
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bbcb846fe8673e0800000000000000
+      internalID: -2056298991414625404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_142
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 732
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e9c94b125b63af0800000000000000
+      internalID: -416946759116480905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_143
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 732
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1c4b9c8fe69850800000000000000
+      internalID: 6383552909024172807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_144
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 732
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7464e494bc425250800000000000000
+      internalID: 5931887997676184701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_145
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 708
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47d90450ab5185f0800000000000000
+      internalID: -756222518258706613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_146
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 710
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf801d6dc4a8045c0800000000000000
+      internalID: -4233231587102095108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 708
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e71dba4c7e8790800000000000000
+      internalID: -7525941266847636505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_148
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 610
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf316abd8a09300800000000000000
+      internalID: 256890840097749928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_149
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 610
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44e2d24c05dcdf30800000000000000
+      internalID: 4601787167903245389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_150
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 610
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003fafb5cc7b19d0800000000000000
+      internalID: -2802509154341670897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 610
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c6e3b2fb79fa630800000000000000
+      internalID: 3940535046292532335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_152
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 610
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bde6bbe765a4b7e0800000000000000
+      internalID: -1750592489385431627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 589
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd1bc6bdf869780800000000000000
+      internalID: -8676589459498476268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_154
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 588
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c973a29025f5e920800000000000000
+      internalID: 3019088645469731268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 483
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66986747bffa1e330800000000000000
+      internalID: 3738462660219799910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_156
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 484
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2a7da2c82b8500800000000000000
+      internalID: 399457808551652916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_157
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 484
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5584789a507c762c0800000000000000
+      internalID: -4438360080617355179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_158
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 484
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e94acf0e614fe0800000000000000
+      internalID: -1206562211061177424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 484
+        width: 214
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c638adf958291a0800000000000000
+      internalID: -6804229165391057901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_160
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 483
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc40a0e5a30831a0800000000000000
+      internalID: -6829704823934268222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_161
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 483
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18498be57ed5f3790800000000000000
+      internalID: -7548211202141678463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_162
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 484
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71e1f99e9fbd3d0800000000000000
+      internalID: -3180673930014877697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_163
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 484
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10b411c01d81170800000000000000
+      internalID: 8149493375486853588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_164
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 483
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71337b03b8980b0800000000000000
+      internalID: -5725892409876604979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_165
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 484
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915c655b22ac2280800000000000000
+      internalID: -9066693642803195490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_166
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 484
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ac6cc60c71e32b0800000000000000
+      internalID: -5603014771176191332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_167
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 483
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ba2b426bcefbc0800000000000000
+      internalID: -3747334216897349541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_168
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 484
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144bcfe69b05eb290800000000000000
+      internalID: -7872766341235821503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_169
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 484
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba227036dc1d6680800000000000000
+      internalID: -8760313993904379209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_170
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 483
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9049ae9f9a670b60800000000000000
+      internalID: 7712250120689500318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_171
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 458
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4930ab7c553f60120800000000000000
+      internalID: 2379857002860512148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_172
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 458
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4fdb7a66b1459d0800000000000000
+      internalID: -2786572141720636228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_173
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08561a030bfdb3bb0800000000000000
+      internalID: -4955121017167977088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_174
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 458
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7468d23e84eb14890800000000000000
+      internalID: -7475484686199978425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_175
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 458
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548c37504dbaeb50800000000000000
+      internalID: 6623314286040876124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_176
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 370
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422317b1a2b2e4a60800000000000000
+      internalID: 7660107476052816420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_177
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 370
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae387caffa222b640800000000000000
+      internalID: 5094172267731452906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_178
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 371
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833d72302fbeb1a0800000000000000
+      internalID: -6791781043021204595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_179
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 370
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2491a493d732e60800000000000000
+      internalID: 7936324653366723272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_180
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 369
+        width: 122
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe07894d5ce7d8c0800000000000000
+      internalID: -3974448260721471812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_181
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 376
+        width: 210
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02674198ab6d72d50800000000000000
+      internalID: 6712569866271094304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_182
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 355
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3bbd561e5305c0800000000000000
+      internalID: -4250450173152773095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_183
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 335
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e2062efc972d270800000000000000
+      internalID: 8273809399196167720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_184
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 375
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278acaef40cf7ee0800000000000000
+      internalID: -1261077921166358744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_185
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 368
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9fb476552176e10800000000000000
+      internalID: 2190739901753588170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_186
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 374
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b94616c9a21670800000000000000
+      internalID: 8508049314298836646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_187
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 371
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c513bfb389a39aa90800000000000000
+      internalID: -7302240895288790692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_188
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 369
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4effcdeeb9ca963e0800000000000000
+      internalID: -2059925568817922076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_189
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 369
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddecd44ffdb8a360800000000000000
+      internalID: 7181198509911895511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_190
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 379
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd35c0b02edb2ee10800000000000000
+      internalID: 2225549944420062172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_191
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 374
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c514bf862779fd0800000000000000
+      internalID: -2335272086550782867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_192
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 324
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d5531ef21d31220800000000000000
+      internalID: 2455536225419091225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_193
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 326
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca8812540e3dcc0800000000000000
+      internalID: -3687357082366333795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_194
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 221
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e39236d4d068d50800000000000000
+      internalID: 6739088518433816129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_195
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 221
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6ce4d68f41b6c00800000000000000
+      internalID: 894832008181499596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_196
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 221
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c022210f2f0830800000000000000
+      internalID: 4039499072688670252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_197
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 221
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7361ee22536d3e0800000000000000
+      internalID: -2029376157944236111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_198
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 221
+        width: 312
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29106d8927782bb10800000000000000
+      internalID: 1995806511138734482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_199
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 221
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11733674f401828b0800000000000000
+      internalID: -5176869838976239855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_200
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 221
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77e921509ddae30800000000000000
+      internalID: 4516504617132914676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_201
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 221
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbcfe1e69867ae80800000000000000
+      internalID: -8167444401968133181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_202
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 221
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b59967d6507220800000000000000
+      internalID: 2481578877870519810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_203
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 221
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28f55bcbbb3e0b90800000000000000
+      internalID: -7273810670400440273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_204
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 221
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259dadd9689ba6b0800000000000000
+      internalID: -5283962157331016412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_205
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe10c57ee29a010800000000000000
+      internalID: 1200542346886901537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_206
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 221
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fd6517b3496500800000000000000
+      internalID: 389917296361862612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_207
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 196
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb44a5dd4513b780800000000000000
+      internalID: -8668561433717093450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 121
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e1d8f8b06e04de0800000000000000
+      internalID: -1350826950883729824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_209
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 121
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee795e388817100800000000000000
+      internalID: 104014366480264951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_210
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 121
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aded27528c4f350d0800000000000000
+      internalID: -3435132950294634790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_211
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 121
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b17fb5afa793e50800000000000000
+      internalID: 6789593128941067022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_212
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 121
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdbaf433313f9e60800000000000000
+      internalID: 7971143961471008245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_213
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 121
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8247d9ac7ebb4be00800000000000000
+      internalID: 1059678416550065192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_214
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 97
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa01c39130031a30800000000000000
+      internalID: 4184688691689622184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_215
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a8dfea88892d80800000000000000
+      internalID: -8274932710005758975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_216
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 8
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482e5f43c22726280800000000000000
+      internalID: -9051546766868618620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_217
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebd4927d8ff997f0800000000000000
+      internalID: -605171691926791199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_218
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 8
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ed725887c7da50800000000000000
+      internalID: 6545919971719768091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_219
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 8
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c551b0eae8835800800000000000000
+      internalID: 599973717743850944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_220
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 8
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d719fbdf32aa4de20800000000000000
+      internalID: 3374509092365111677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_221
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 8
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d933a9036699fdb0800000000000000
+      internalID: -4757606179232597543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_222
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c510f93217dd5780800000000000000
+      internalID: -8692555232473770559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_223
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05cdc0531e133710800000000000000
+      internalID: 1671712954993460495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_224
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d419a8969713cc610800000000000000
+      internalID: 1642742361614881101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_0: -6498610428828611880
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_1: 6029104326327822678
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_10: -2642793688945185332
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_100: 5163656627381552022
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_101: -7455189973960291036
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_102: 376275255495097870
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_103: 3484918066020745663
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_104: -819473275834463611
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_105: 4238703726681147896
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_106: 2766386574205737445
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_107: -2251991862347908293
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_108: -9205594135088988264
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_109: 2484673962286889856
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_11: 2082621981134818108
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_110: 3901998466416600220
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_111: -4594186694356238141
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_112: -2790816016380957023
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_113: -3269450979188095939
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_114: -3075788518964885631
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_115: -2925244335418978680
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_116: -3195534312665561171
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_117: 3253350122006800460
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_118: 4999598077352301804
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_119: -6404281848415515736
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_12: -625914798412742312
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_120: 5982092553733109228
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_121: 5825896955005760532
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_122: -2551079515214603930
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_123: 6288445972608256673
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_124: -1383741023709451356
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_125: -3173355180432460579
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_126: 9041286119738786395
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_127: 5287984778896135265
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_128: 4269735388135193537
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_129: -1587745294004672977
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_13: 3396258034913991226
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_130: 1867941052103201873
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_131: -6068616591662592110
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_132: 6057103474926899227
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_133: -5302308470863377792
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_134: -6620752957713545879
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_135: -3255466803441488340
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_136: 2593382013216991997
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_137: 1506579967949448901
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_138: -1512278629330402721
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_139: 1475110464326037870
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_14: 1256150291948500448
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_140: 7287830004928664371
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_141: -2056298991414625404
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_142: -416946759116480905
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_143: 6383552909024172807
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_144: 5931887997676184701
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_145: -756222518258706613
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_146: -4233231587102095108
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_147: -7525941266847636505
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_148: 256890840097749928
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_149: 4601787167903245389
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_15: 4696908598561137477
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_150: -2802509154341670897
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_151: 3940535046292532335
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_152: -1750592489385431627
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_153: -8676589459498476268
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_154: 3019088645469731268
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_155: 3738462660219799910
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_156: 399457808551652916
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_157: -4438360080617355179
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_158: -1206562211061177424
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_159: -6804229165391057901
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_16: -7097342709308240802
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_160: -6829704823934268222
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_161: -7548211202141678463
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_162: -3180673930014877697
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_163: 8149493375486853588
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_164: -5725892409876604979
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_165: -9066693642803195490
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_166: -5603014771176191332
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_167: -3747334216897349541
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_168: -7872766341235821503
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_169: -8760313993904379209
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_17: 3736501906121022922
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_170: 7712250120689500318
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_171: 2379857002860512148
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_172: -2786572141720636228
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_173: -4955121017167977088
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_174: -7475484686199978425
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_175: 6623314286040876124
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_176: 7660107476052816420
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_177: 5094172267731452906
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_178: -6791781043021204595
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_179: 7936324653366723272
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_18: 5997909863109234318
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_180: -3974448260721471812
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_181: 6712569866271094304
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_182: -4250450173152773095
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_183: 8273809399196167720
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_184: -1261077921166358744
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_185: 2190739901753588170
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_186: 8508049314298836646
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_187: -7302240895288790692
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_188: -2059925568817922076
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_189: 7181198509911895511
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_19: 8411522340571909731
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_190: 2225549944420062172
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_191: -2335272086550782867
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_192: 2455536225419091225
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_193: -3687357082366333795
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_194: 6739088518433816129
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_195: 894832008181499596
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_196: 4039499072688670252
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_197: -2029376157944236111
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_198: 1995806511138734482
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_199: -5176869838976239855
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_2: -2336694110901918729
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_20: 1323494934897574295
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_200: 4516504617132914676
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_201: -8167444401968133181
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_202: 2481578877870519810
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_203: -7273810670400440273
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_204: -5283962157331016412
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_205: 1200542346886901537
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_206: 389917296361862612
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_207: -8668561433717093450
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_208: -1350826950883729824
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_209: 104014366480264951
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_21: 2245427664873784760
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_210: -3435132950294634790
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_211: 6789593128941067022
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_212: 7971143961471008245
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_213: 1059678416550065192
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_214: 4184688691689622184
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_215: -8274932710005758975
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_216: -9051546766868618620
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_217: -605171691926791199
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_218: 6545919971719768091
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_219: 599973717743850944
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_22: 5600540793389039187
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_220: 3374509092365111677
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_221: -4757606179232597543
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_222: -8692555232473770559
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_223: 1671712954993460495
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_224: 1642742361614881101
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_23: 1943458997634312369
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_24: -5491227304974888331
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_25: 8958415387407836442
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_26: -7071749813791096723
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_27: 7513817013370927239
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_28: -1184404838964577184
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_29: -7086230396391237853
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_3: -2363109733502537979
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_30: -2676603455590895417
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_31: -8441810125572472716
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_32: 6535613554786117625
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_33: -1113448829538367794
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_34: 662662112512101810
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_35: -2799490681591077380
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_36: 8955390818578356375
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_37: -1760772636475912431
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_38: 3154285483508666601
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_39: -2625049042705027700
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_4: -4254668841668641284
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_40: -1469176436387613357
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_41: 9000805403269827454
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_42: 6545950155888115643
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_43: 5668182262189933185
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_44: -3721170894275871864
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_45: 5799481266659470147
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_46: -5438029896858778570
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_47: -4386371234941509786
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_48: 5179125881916132325
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_49: 3666369781356181499
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_5: -2063383308831384227
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_50: -4767799458963846727
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_51: -2713511414481045657
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_52: 6018981959322233859
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_53: -2618454114965106069
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_54: -8525277502089413767
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_55: 6532757285014590586
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_56: -3008178715629219231
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_57: 166150476955868284
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_58: 7358126534519147791
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_59: -3734755229889140627
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_6: -5416296040589125286
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_60: -2893899661102270656
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_61: -3115998614923770676
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_62: -8249956442190300122
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_63: 7963455209267966839
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_64: -9008784636330612797
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_65: 8379821566098923874
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_66: 5616957533335296781
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_67: 1126236982318189760
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_68: -8182209177051977466
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_69: -5596899114376622156
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_7: -6621922078073974595
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_70: -1163081008177514313
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_71: -2549788011719365842
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_72: 4713264240241262287
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_73: 5641743059806646472
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_74: -3528812234809400372
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_75: -6356372720451647608
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_76: 350419845321619642
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_77: -8126204578097270180
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_78: 1050202447694954110
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_79: -6966381632976918919
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_8: -8106724897375797644
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_80: 1334480490114351298
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_81: 4656009851122426584
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_82: -4527040439357670690
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_83: -7069246051700398247
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_84: -1995755234991418295
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_85: 5570808897535073231
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_86: -6100881146500703767
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_87: -5071961356930401901
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_88: -3636682198148702180
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_89: 5077431794657626170
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_9: 379867162285863795
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_90: -3320727792064361689
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_91: -7975353642253845308
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_92: 8612051069172974088
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_93: 3749445139133942935
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_94: -2136288673867009795
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_95: -752799420668518022
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_96: 4130064691401068700
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_97: 5342603135332723710
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_98: -7042256523114317041
+      noel_vermillion_jus___sprite_sheet_by_xelectromanx10_ddncfd5_99: 8443611984517868746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

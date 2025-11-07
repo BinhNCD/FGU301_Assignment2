@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2b9499e62a6f0542868ce2bc675a666, type: 3}
+  m_Name: Kosmos Data
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterName: Kosmos
+  characterPrefab: {fileID: 4513342226359919660, guid: 709f6349810940444ac8551196b8302c, type: 3}
+  animatorOverride: {fileID: 22100000, guid: bfeeb403194077d40ba6ab114acc2157, type: 2}
+  moveSpeed: 10
+  jumpForce: 30
+  maxHealth: 100
+  groundNormalAttacks:
+  - animationTriggerName: 
+    damage: 0
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0
+    offsetY: 0
+    sizeX: 0
+    sizeY: 0
+  - animationTriggerName: Attack1
+    damage: 1
+    attackThrust: 8.5
+    hitActiveDuration: 0
+    offsetX: 0.3402826
+    offsetY: -0.07464273
+    sizeX: 0.4599391
+    sizeY: 0.5609262
+  - animationTriggerName: Attack2
+    damage: 1
+    attackThrust: 8.5
+    hitActiveDuration: 0
+    offsetX: 0.2241029
+    offsetY: -0.03735052
+    sizeX: 0.7011964
+    sizeY: 0.185404
+  - animationTriggerName: Attack3
+    damage: 1
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0.2561175
+    offsetY: 0.08853674
+    sizeX: 1.369947
+    sizeY: 1.569936
+  - animationTriggerName: Attack4
+    damage: 1
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0.05522257
+    offsetY: 0.1393656
+    sizeX: 2.207413
+    sizeY: 1.671593
+  airNormalAttacks:
+  - animationTriggerName: 
+    damage: 0
+    attackThrust: 0
+    hitActiveDuration: 0
+    offsetX: 0
+    offsetY: 0
+    sizeX: 0
+    sizeY: 0
+  - animationTriggerName: AAttack1
+    damage: 1
+    attackThrust: 8.5
+    hitActiveDuration: 0
+    offsetX: 0.4625016
+    offsetY: -0.08071434
+    sizeX: 0.6623657
+    sizeY: 0.6124638
+  - animationTriggerName: AAttack2
+    damage: 1
+    attackThrust: 8.5
+    hitActiveDuration: 0
+    offsetX: 0.4538195
+    offsetY: -0.1935802
+    sizeX: 1.455321
+    sizeY: 0.2478198
+  - animationTriggerName: AAttack3
+    damage: 1
+    attackThrust: 8.5
+    hitActiveDuration: 0
+    offsetX: 0.5551095
+    offsetY: 0.02057576
+    sizeX: 1.380077
+    sizeY: 0.6761316
+  skills:
+  - skillName: 
+    skillAnimationTriggerName: 
+    cooldownTime: 0
+    attackSequence: []
+  - skillName: Dragon Tooth
+    skillAnimationTriggerName: Skill1
+    cooldownTime: 10
+    attackSequence:
+    - animationTriggerName: 
+      damage: 0
+      attackThrust: 0
+      hitActiveDuration: 0
+      offsetX: 0
+      offsetY: 0
+      sizeX: 0
+      sizeY: 0
+    - animationTriggerName: Skill1
+      damage: 5
+      attackThrust: 0
+      hitActiveDuration: 0.1
+      offsetX: 1.281318
+      offsetY: -0.1889298
+      sizeX: 2.346303
+      sizeY: 0.691646
+    - animationTriggerName: Skill1
+      damage: 5
+      attackThrust: 0
+      hitActiveDuration: 0.1
+      offsetX: 1.281318
+      offsetY: 0.5157898
+      sizeX: 2.346303
+      sizeY: 2.101086
+    - animationTriggerName: Skill1
+      damage: 5
+      attackThrust: 0
+      hitActiveDuration: 0.1
+      offsetX: 0.8328693
+      offsetY: 1.073784
+      sizeX: 2.243604
+      sizeY: 1.984694
+  - skillName: R Drill
+    skillAnimationTriggerName: Skill2
+    cooldownTime: 10
+    attackSequence:
+    - animationTriggerName: 
+      damage: 0
+      attackThrust: 0
+      hitActiveDuration: 0
+      offsetX: 0
+      offsetY: 0
+      sizeX: 0
+      sizeY: 0
+    - animationTriggerName: Skill2
+      damage: 5
+      attackThrust: 35
+      hitActiveDuration: 0.08
+      offsetX: 0.4254991
+      offsetY: 0.005721569
+      sizeX: 1.428864
+      sizeY: 0.4099851
+    - animationTriggerName: Skill2
+      damage: 5
+      attackThrust: 0
+      hitActiveDuration: 0.08
+      offsetX: 0.4254991
+      offsetY: 0.005721569
+      sizeX: 1.428864
+      sizeY: 0.4099851
+    - animationTriggerName: Skill2
+      damage: 5
+      attackThrust: 0
+      hitActiveDuration: 0.08
+      offsetX: 0.4254991
+      offsetY: 0.005721569
+      sizeX: 1.428864
+      sizeY: 0.4099851
