@@ -1,9 +1,15 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 // Script này nằm trong Scene Game chính ("GameScene")
 // Nhiệm vụ: Đọc lựa chọn từ GameManager và tạo (spawn) nhân vật
 public class GameSceneManager : MonoBehaviour
 {
+    public static GameSceneManager Instance;
+    [Header("Scene Configuration")]
+    [Tooltip("Tên Scene chọn nhân vật (ví dụ: 'CharacterSelectScene').")]
+    [SerializeField] private string characterSelectSceneName = "CharacterSelectScene";
+
     [Header("Spawn Points")]
     [SerializeField] private Transform player1SpawnPoint;
     [SerializeField] private Transform player2SpawnPoint;
@@ -13,6 +19,20 @@ public class GameSceneManager : MonoBehaviour
     [SerializeField] private LayerMask player1Layer;
     [Tooltip("Layer của Player 2 (ví dụ: 'Player2')")]
     [SerializeField] private LayerMask player2Layer;
+
+    private bool roundOver = false;
+
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
     void Start()
     {
@@ -104,5 +124,36 @@ public class GameSceneManager : MonoBehaviour
             }
         }
         return 0; // Trả về Default nếu không tìm thấy
+    }
+
+    public void EndRound(int winnerPlayerIndex)
+    {
+        if (roundOver) return;
+
+        roundOver = true;
+
+        Debug.Log($"Trận đấu kết thúc! Người chơi {winnerPlayerIndex + 1} WIN!");
+
+
+        if (UIManager.Instance != null)
+        {
+            // winnerPlayerIndex = 0 (P1 thắng) hoặc 1 (P2 thắng)
+            UIManager.Instance.ShowGameOverScreen(winnerPlayerIndex);
+        }
+
+    }
+
+    public void GoToCharacterSelect()
+    {
+        if (string.IsNullOrEmpty(characterSelectSceneName))
+        {
+            Debug.LogError("Chưa thiết lập tên Scene chọn nhân vật. Không thể quay lại.");
+            return;
+        }
+
+        Debug.Log($"Đang tải Scene: {characterSelectSceneName}");
+
+        // Tải Scene chọn nhân vật
+        SceneManager.LoadScene(characterSelectSceneName);
     }
 }

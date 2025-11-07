@@ -47,6 +47,24 @@ public class PlayerInputHandler : MonoBehaviour
                 guardAction.started += OnGuardStarted;
                 guardAction.canceled += OnGuardCanceled;
             }
+
+            InputAction skill1Action = playerActionMap.FindAction("Skill1");
+            if (skill1Action != null)
+            {
+                skill1Action.performed += OnSkill1;
+            }
+
+            InputAction skill2Action = playerActionMap.FindAction("Skill2");
+            if (skill2Action != null)
+            {
+                skill2Action.performed += OnSkill2;
+            }
+
+            InputAction dashAction = playerActionMap.FindAction("Dash");
+            if (dashAction != null)
+            {
+                dashAction.performed += OnDash;
+            }
         }
     }
 
@@ -78,6 +96,24 @@ public class PlayerInputHandler : MonoBehaviour
             {
                 guardAction.started -= OnGuardStarted;
                 guardAction.canceled -= OnGuardCanceled;
+            }
+
+            InputAction skill1Action = playerActionMap.FindAction("Skill1");
+            if (skill1Action != null)
+            {
+                skill1Action.performed -= OnSkill1;
+            }
+
+            InputAction skill2Action = playerActionMap.FindAction("Skill2");
+            if (skill2Action != null)
+            {
+                skill2Action.performed -= OnSkill2;
+            }
+
+            InputAction dashAction = playerActionMap.FindAction("Dash");
+            if (dashAction != null)
+            {
+                dashAction.performed -= OnDash;
             }
 
             playerActionMap.Disable();
@@ -114,5 +150,23 @@ public class PlayerInputHandler : MonoBehaviour
     {
         if (controller == null) return;
         controller.OnGuardPressed(false);
+    }
+
+    public void OnSkill1(InputAction.CallbackContext context)
+    {
+        if (controller == null) return;
+        controller.OnSkillPressed(1);
+    }
+
+    public void OnSkill2(InputAction.CallbackContext context)
+    {
+        if (controller == null) return;
+        controller.OnSkillPressed(2);
+    }
+
+    public void OnDash(InputAction.CallbackContext context)
+    {
+        if (controller == null) return;
+        controller.OnDashPressed();
     }
 }

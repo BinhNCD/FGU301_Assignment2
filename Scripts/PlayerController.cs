@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections; // Cần cho Coroutines (như Hit Stop)
-using UnityEngine.InputSystem; // Cần thiết cho CallbackContext nếu dùng Send Messages
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Animator))]
@@ -18,6 +17,7 @@ public class PlayerController : MonoBehaviour
     private HealthComponent health;
     private BoxCollider2D meleeHitbox;
     private HitboxTrigger hitboxTrigger;
+    private ShadowTrailEffect shadowTrail;
 
     // --- CẤU HÌNH INPUT & PLAYER ---
     [HideInInspector] public int playerIndex;
@@ -31,16 +31,23 @@ public class PlayerController : MonoBehaviour
     private bool isGuarding = false;
     private bool isAttacking = false;
     private bool isStunned = false; // Trạng thái khi bị dính đòn
+    private bool isDashing = false;
 
     // --- COMBAT ---
+    private float originalGravityScale = 1f;
     private int comboStep = 0;
     private float comboTimer = 0f;
     private float lastAttackTime = 0f;
+    private AttackData[] currentComboArray;
+    private static float P1_MAX_HEALTH = 0;
+    private static float P2_MAX_HEALTH = 0;
 
     // --- CONSTANTS (HẰNG SỐ) ---
     private const float GROUND_CHECK_DISTANCE = 0.5f;
     private const float COMBO_WINDOW_TIME = 0.4f; // Thời gian chờ giữa các đòn combo
     private const float ATTACK_DEBOUNCE_DELAY = 0.2f; // Chống spam attack
+    private const float DASH_DISTANCE = 10f; 
+    private const float DASH_SPEED = 50f; // Tốc độ Dash
 
     // --- THAM CHIẾU (REFERENCES) ---
     [Tooltip("Transform chỉ ra vị trí để kiểm tra mặt đất (Dưới chân nhân vật).")]
@@ -50,6 +57,12 @@ public class PlayerController : MonoBehaviour
     [Tooltip("BoxCollider2D của Hitbox con duy nhất.")]
     [SerializeField] private BoxCollider2D childMeleeHitbox;
 
+    // KNOCKBACK CONSTANTS (Tạm thời)
+    private const float SOFT_KNOCKBACK_X = 0.5f;
+    private const float SOFT_KNOCKBACK_Y = 1.0f;
+    private const float HARD_KNOCKBACK_X = 5.0f;
+    private const float HARD_KNOCKBACK_Y = 10.0f;
+
     #region Khởi tạo và Thiết lập
 
     // Awake được gọi ngay cả khi script bị disable
@@ -57,7 +70,10 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        health = GetComponent<HealthComponent>(); // Lấy HealthComponent
+        health = GetComponent<HealthComponent>();
+        shadowTrail = GetComponent<ShadowTrailEffect>();
+
+        originalGravityScale = rb.gravityScale;
     }
 
     // Hàm này sẽ được gọi TỪ BÊN NGOÀI (Bởi GameSceneManager)
@@ -76,7 +92,15 @@ public class PlayerController : MonoBehaviour
 
         // 1. Áp dụng chỉ số
         // (Lấy từ HealthComponent thay vì CharacterData để đồng bộ)
-        health.Initialize(characterData.maxHealth, this);
+        health.Initialize(characterData.maxHealth, index, this);
+
+        if (index == 0) { P1_MAX_HEALTH = characterData.maxHealth; }
+        else if (index == 1) { P2_MAX_HEALTH = characterData.maxHealth; }
+
+        if (P1_MAX_HEALTH > 0 && P2_MAX_HEALTH > 0 && UIManager.Instance != null)
+        {
+            UIManager.Instance.InitializeHealthBar(P1_MAX_HEALTH, P2_MAX_HEALTH);
+        }
 
         // 2. Áp dụng Animations
         if (characterData.animatorOverride != null)
@@ -146,18 +170,35 @@ public class PlayerController : MonoBehaviour
     {
         if (isStunned || characterData == null) return;
 
-        // Xử lý di chuyển
         HandleMovement();
-
-        // Xử lý lật mặt
         HandleFlip();
-
-        // Cập nhật Animator
         UpdateAnimationParameters();
     }
 
     private void HandleMovement()
     {
+        if (isDashing || isStunned)
+        {
+            rb.gravityScale = 0f;
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
+        if (isAttacking && !isGrounded)
+        {
+            // Ngừng ảnh hưởng của trọng lực
+            rb.gravityScale = 0f;
+            // Khóa vận tốc đứng (chỉ giữ lại vận tốc ngang do attackThrust)
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+            return;
+        }
+        
+
+        if (rb.gravityScale != originalGravityScale)
+        {
+            rb.gravityScale = originalGravityScale;
+        }
+
         float currentHorizontalInput = movementInput.x;
         float actualMoveSpeed = characterData.moveSpeed;
 
@@ -178,7 +219,7 @@ public class PlayerController : MonoBehaviour
     private void HandleFlip()
     {
         // Chỉ lật mặt khi không tấn công hoặc đỡ đòn
-        if (!isAttacking)
+        if (!isAttacking || !isStunned)
         {
             if (movementInput.x > 0 && !isFacingRight)
             {
@@ -199,6 +240,7 @@ public class PlayerController : MonoBehaviour
         anim.SetBool("IsJumping", !isGrounded);
         anim.SetFloat("VerticalSpeed", rb.linearVelocity.y);
         anim.SetBool("IsGuarding", isGuarding);
+        anim.SetBool("IsDashing", isDashing);
     }
 
     #endregion
@@ -212,7 +254,7 @@ public class PlayerController : MonoBehaviour
         Debug.Log($"P{playerIndex + 1} [INPUT-MOVE] Nhận: {input}. Trạng thái hiện tại: Attacking={isAttacking}, Guarding={isGuarding}, Stunned={isStunned}");
         lastMoveInput = input;
 
-        if (isStunned)
+        if (isStunned || isDashing)
         {
             movementInput = Vector2.zero;
             Debug.LogWarning($"P{playerIndex + 1} [INPUT-MOVE] BỊ CHẶN: Đang Stunned.");
@@ -236,7 +278,7 @@ public class PlayerController : MonoBehaviour
         // DEBUG: Nhận input Jump
         Debug.Log($"P{playerIndex + 1} [INPUT-JUMP] Nhấn Jump. Trạng thái hiện tại: Attacking={isAttacking}, Guarding={isGuarding}, Stunned={isStunned}, Grounded={isGrounded}");
 
-        if (isGuarding || isAttacking || isStunned || !isGrounded)
+        if (isGuarding || isAttacking || isStunned || !isGrounded || isDashing)
         {
             string reason = isStunned ? "Stunned" : (isGuarding ? "Guarding" : (isAttacking ? "Attacking" : (!isGrounded ? "Not Grounded" : "Unknown")));
             Debug.LogWarning($"P{playerIndex + 1} [INPUT-JUMP] BỊ CHẶN. Lý do: {reason}.");
@@ -249,21 +291,41 @@ public class PlayerController : MonoBehaviour
         Debug.Log($"P{playerIndex + 1} [INPUT-JUMP] KÍCH HOẠT Nhảy. Lực đẩy: {characterData.jumpForce}.");
     }
 
+    public void OnDashPressed()
+    {
+        if (isStunned || isAttacking || isGuarding || isDashing)
+        {
+            return;
+        }
+
+        if (lastMoveInput.x > 0 && !isFacingRight) Flip();
+        if (lastMoveInput.x < 0 && isFacingRight) Flip();
+
+        StartCoroutine(DashCoroutine());
+    }
+
     // Hàm này được gọi bởi PlayerInputHandler
     public void OnAttackPressed()
     {
+        if (isDashing || isStunned) return;
+
         // DEBUG: Nhận input Attack
         Debug.Log($"P{playerIndex + 1} [INPUT-ATTACK] Nhấn Attack. Trạng thái hiện tại: Attacking={isAttacking}, Guarding={isGuarding}, Stunned={isStunned}, ComboTimer={comboTimer:F2}.");
 
-        if (characterData.comboAttacks == null || characterData.comboAttacks.Length < 2) return;
+        AttackData[] targetAttackArray = isGrounded ?
+            characterData.groundNormalAttacks : characterData.airNormalAttacks;
+
+        if (targetAttackArray == null || targetAttackArray.Length < 2) return;
 
         // Check các điều kiện không thể tấn công
-        if (isStunned || isGuarding || !isGrounded)
+        if (isStunned || isGuarding)
         {
             string reason = isStunned ? "Stunned" : (isGuarding ? "Guarding" : (!isGrounded ? "Not Grounded" : "Unknown"));
             Debug.LogWarning($"P{playerIndex + 1} [INPUT-ATTACK] BỊ CHẶN. Lý do: {reason}.");
             return;
         }
+
+        currentComboArray = targetAttackArray;
 
         // Check debounce (tránh spam)
         if (Time.time < lastAttackTime + ATTACK_DEBOUNCE_DELAY)
@@ -278,19 +340,30 @@ public class PlayerController : MonoBehaviour
             ResetCombo();
         }
 
-        int nextComboStep =  comboStep + 1;
+        int nextComboStep = comboStep + 1;
 
         // Kiểm tra xem combo có thể tiếp tục không
-        if (nextComboStep > characterData.comboAttacks.Length - 1)
+        if (nextComboStep > currentComboArray.Length - 1)
         {
-            nextComboStep = 1;
+            if (!isGrounded)
+            {
+                Debug.Log($"P{playerIndex + 1}: Max air combo reached. Blocking further air attacks until landing.");
+                ResetCombo();
+                return;
+            }
+            // Logic cũ: Reset combo trên mặt đất
+            else
+            {
+                Debug.Log($"P{playerIndex + 1}: Max combo reached. Restarting combo.");
+                nextComboStep = 1;
+            }
         }
 
         // Nếu hợp lệ, cập nhật bước combo
         comboStep = nextComboStep;
 
         // Lấy dữ liệu đòn đánh hiện tại (trừ 1 vì mảng bắt đầu từ 0)
-        AttackData currentAttack = characterData.comboAttacks[comboStep];
+        AttackData currentAttack = currentComboArray[comboStep];
 
         // --- BẮT ĐẦU TẤN CÔNG ---
         isAttacking = true;
@@ -304,7 +377,7 @@ public class PlayerController : MonoBehaviour
 
         // 2. Kích hoạt Animation Trigger
         // Reset tất cả trigger cũ (để an toàn)
-        foreach (var attack in characterData.comboAttacks)
+        foreach (var attack in currentComboArray)
         {
             anim.ResetTrigger(attack.animationTriggerName);
         }
@@ -314,6 +387,34 @@ public class PlayerController : MonoBehaviour
         Debug.Log($"P{playerIndex + 1} [INPUT-ATTACK] KÍCH HOẠT Attack {comboStep} ({currentAttack.animationTriggerName}). Timer Reset: {COMBO_WINDOW_TIME:F2}.");
     }
 
+    public void OnSkillPressed(int skillIndex)
+    {
+        // 1. Kiểm tra điều kiện chặn
+        if (isStunned || isGuarding || isAttacking || isDashing) return;
+
+        if (characterData.skills == null || skillIndex < 1 || skillIndex > characterData.skills.Length)
+        {
+            Debug.LogWarning($"P{playerIndex + 1}: Skill Index {skillIndex} không hợp lệ hoặc Skill chưa được định nghĩa.");
+            return;
+        }
+
+        SkillAttackData skill = characterData.skills[skillIndex];
+
+        // 2. Thiết lập trạng thái
+        isAttacking = true;
+        movementInput = Vector2.zero;
+        lastAttackTime = Time.time;
+        ResetCombo(); // Reset combo thường
+
+        // 3. Kích hoạt Animation Skill
+        anim.SetTrigger(skill.skillAnimationTriggerName);
+
+        // 4. Bắt đầu Coroutine để quản lý chuỗi hitbox và lực đẩy của Skill
+        StartCoroutine(SkillSequenceCoroutine(skill));
+
+        Debug.Log($"P{playerIndex + 1}: KÍCH HOẠT Skill: {skill.skillName} (Index: {skillIndex}).");
+    }
+
     // Hàm này được gọi bởi PlayerInputHandler
     // Đã thêm Debug Log chi tiết
     public void OnGuardPressed(bool isPressed)
@@ -321,7 +422,7 @@ public class PlayerController : MonoBehaviour
         // DEBUG: Nhận input Guard
         Debug.Log($"P{playerIndex + 1} [INPUT-GUARD] {(isPressed ? "Nhấn BẮT ĐẦU" : "Nhả KẾT THÚC")}. Trạng thái hiện tại: Attacking={isAttacking}, Stunned={isStunned}, Grounded={isGrounded}.");
 
-        if (isAttacking || isStunned)
+        if (isAttacking || isStunned || isDashing)
         {
             string reason = isStunned ? "Stunned" : "Attacking";
             Debug.LogWarning($"P{playerIndex + 1} [INPUT-GUARD] BỊ CHẶN. Lý do: {reason}.");
@@ -373,7 +474,7 @@ public class PlayerController : MonoBehaviour
     private void ResetCombo()
     {
         comboStep = 0;
-
+        currentComboArray = null;
         Debug.Log($"P{playerIndex + 1}: Combo reset.");
     }
 
@@ -386,14 +487,16 @@ public class PlayerController : MonoBehaviour
     {
         if (meleeHitbox == null || hitboxTrigger == null || characterData == null) return;
 
-        if (comboStep <= 0 || comboStep > characterData.comboAttacks.Length - 1)
+        AttackData currentAttack;
+
+        if (comboStep <= 0 || comboStep > currentComboArray.Length - 1)
         {
             Debug.LogError($"P{playerIndex + 1}: Lỗi Anim_ActivateHitbox. ComboStep không hợp lệ: {comboStep}");
             return;
         }
 
         // Lấy data của đòn đánh hiện tại
-        AttackData currentAttack = characterData.comboAttacks[comboStep];
+        currentAttack = currentComboArray[comboStep];
 
         meleeHitbox.size = new Vector2(currentAttack.sizeX, currentAttack.sizeY);
         meleeHitbox.offset = new Vector2(currentAttack.offsetX, currentAttack.offsetY);
@@ -433,44 +536,59 @@ public class PlayerController : MonoBehaviour
     #region Xử lý Trạng thái (Bị đánh, Chết)
 
     // Hàm này được gọi bởi HealthComponent
-    public void OnHit(Vector3 attackerPosition)
+    public void OnHit(Vector3 attackerPosition, bool isHardHit)
     {
         // Bị đánh sẽ ngắt mọi hành động
         isAttacking = false;
         isGuarding = false;
-        isStunned = true;
+        isDashing = false;
         movementInput = Vector2.zero;
 
         // Hủy kích hoạt hitbox nếu đang mở
         Anim_DeactivateHitbox();
         ResetCombo();
+        if (shadowTrail != null) shadowTrail.StopTrail();
 
-        anim.SetTrigger("Hit"); // Kích hoạt anim bị đánh
-
-        // Tính toán và áp dụng Knockback
-        float knockbackDirection = (transform.position.x > attackerPosition.x) ? 1f : -1f;
+        movementInput = Vector2.zero;
+        rb.gravityScale = originalGravityScale;
         rb.linearVelocity = Vector2.zero;
 
-        // Tạm thời hardcode knockback (có thể lấy từ HealthComponent)
-        // Lấy từ HealthComponent để đồng bộ
-        float knockbackX = 1.25f;
-        float knockbackY = 5f;
+        float knockbackDirection = (transform.position.x > attackerPosition.x) ? 1f : -1f;
 
-        Vector2 knockbackForce = new Vector2(knockbackDirection * knockbackX, knockbackY);
-        rb.AddForce(knockbackForce, ForceMode2D.Impulse);
+        if (isHardHit)
+        {
+            isStunned = true;
+            anim.SetTrigger("HardHit");
 
-        Debug.Log($"P{playerIndex + 1}: BỊ ĐÁNH. Kích hoạt Stun/Khóa Di chuyển. Knockback: {knockbackForce}.");
+            // Áp dụng Knockback Mạnh
+            Vector2 knockbackForce = new Vector2(knockbackDirection * HARD_KNOCKBACK_X, HARD_KNOCKBACK_Y);
+            rb.AddForce(knockbackForce, ForceMode2D.Impulse);
+            Debug.Log($"P{playerIndex + 1}: HARD HIT! Stunned for {health.recoveryDuration}s.");
 
-        // Tự động hồi phục sau khi hết stun
-        StartCoroutine(StunRecoveryCoroutine());
+        }
+        else
+        {
+            anim.SetTrigger("Hit");
+
+            // Áp dụng Knockback Nhẹ
+            Vector2 knockbackForce = new Vector2(knockbackDirection * SOFT_KNOCKBACK_X, SOFT_KNOCKBACK_Y);
+            rb.AddForce(knockbackForce, ForceMode2D.Impulse);
+        }
     }
 
-    private IEnumerator StunRecoveryCoroutine()
+    public void OnRecoveryEnd()
     {
-        // Đợi hết thời gian stun (lấy từ HealthComponent)
-        yield return new WaitForSeconds(health.invulnerabilityDuration);
-        isStunned = false;
-        Debug.Log($"P{playerIndex + 1}: Stun recovered. Mở khóa Di chuyển.");
+        if (isStunned)
+        {
+            anim.SetTrigger("Recovery");
+        }
+    }
+
+    public void RevoveryEnd()
+    {
+        isStunned = false; // Tắt Stun Lock
+        movementInput = lastMoveInput; // Phục hồi input di chuyển cuối cùng
+        Debug.Log($"P{playerIndex + 1}: Hồi phục Stun hoàn tất. Mở khóa Input.");
     }
 
     // Hàm này được gọi bởi HealthComponent
@@ -493,5 +611,110 @@ public class PlayerController : MonoBehaviour
         // TODO: Gọi Game Over Logic từ GameManager
     }
 
+    #endregion
+
+    #region Coroutines
+    private IEnumerator SkillSequenceCoroutine(SkillAttackData skill)
+    {
+        // Lặp qua từng đòn đánh nhỏ (hitbox) trong chuỗi
+        for (int i = 0; i < skill.attackSequence.Length - 1; i++)
+        {
+            AttackData currentHit = skill.attackSequence[i];
+
+            // 1. Áp dụng lực đẩy Skill (nếu cần)
+            float direction = isFacingRight ? 1f : -1f;
+            // Áp dụng lực đẩy (thrust) ngang của hit hiện tại
+            rb.linearVelocity = new Vector2(direction * currentHit.attackThrust, rb.linearVelocity.y);
+
+            // 2. Kích hoạt Hitbox
+            ActivateSpecificHitbox(currentHit);
+            Debug.Log($"P{playerIndex + 1}: [SKILL HIT {i + 1}] Hitbox Activated.");
+
+            // 3. Chờ cho hitbox hoạt động
+            // Sử dụng thời lượng được định nghĩa trong AttackData
+            yield return new WaitForSeconds(currentHit.hitActiveDuration);
+
+            // 4. Vô hiệu hóa Hitbox
+            Anim_DeactivateHitbox();
+
+            // 5. Chờ thêm một khoảng ngắn để Animation Skill tiếp diễn
+            // Hoặc chờ đến khi Animation Skill hoàn thành (nếu không có hit tiếp theo)
+            // Ví dụ: Chờ 0.1 giây giữa các hit nhanh
+            if (i < skill.attackSequence.Length - 1)
+            {
+                yield return new WaitForSeconds(0.1f);
+            }
+        }
+
+        // Đảm bảo Coroutine chờ cho đến khi Animation skill kết thúc 
+        // trước khi gọi Anim_EndAttack để reset isAttacking (tạm thời không cần, vì Anim_EndAttack sẽ được gọi từ Animation)
+    }
+
+    private void ActivateSpecificHitbox(AttackData attackToUse)
+    {
+        if (meleeHitbox == null || hitboxTrigger == null || characterData == null) return;
+
+        // Thiết lập Hitbox
+        meleeHitbox.size = new Vector2(attackToUse.sizeX, attackToUse.sizeY);
+        meleeHitbox.offset = new Vector2(attackToUse.offsetX, attackToUse.offsetY);
+
+        hitboxTrigger.TargetLayer = targetLayer;
+        hitboxTrigger.damage = attackToUse.damage;
+        hitboxTrigger.ResetHitTargets();
+
+        meleeHitbox.enabled = true;
+    }
+
+    private IEnumerator DashCoroutine()
+    {
+        isDashing = true;
+
+        // Bắt đầu hiệu ứng bóng mờ
+        if (shadowTrail != null)
+        {
+            shadowTrail.StartTrail();
+        }
+
+        anim.SetTrigger("Dash");
+
+        float calculatedDuration = DASH_DISTANCE / DASH_SPEED;
+        float startTime = Time.time;
+        float direction = isFacingRight ? 1f : -1f;
+        Vector2 startPosition = rb.position;
+        Vector2 targetEndPosition = startPosition + new Vector2(direction * DASH_DISTANCE, 0f);
+        rb.gravityScale = 0f;
+        rb.linearVelocity = Vector2.zero;
+
+        while (Time.time < startTime + calculatedDuration)
+        {
+            float t = (Time.time - startTime) / calculatedDuration;
+
+            rb.MovePosition(Vector2.Lerp(startPosition, targetEndPosition, t));
+
+            if (shadowTrail != null)
+            {
+                shadowTrail.UpdateTrail();
+            }
+
+            yield return null;
+        }
+
+        // Kết thúc Dash
+        isDashing = false;
+
+        // Dừng hiệu ứng bóng mờ
+        if (shadowTrail != null)
+        {
+            shadowTrail.StopTrail();
+        }
+
+        rb.gravityScale = originalGravityScale;
+
+        rb.MovePosition(targetEndPosition);
+
+        rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+
+        Debug.Log($"P{playerIndex + 1}: Dash Finished.");
+    }
     #endregion
 }

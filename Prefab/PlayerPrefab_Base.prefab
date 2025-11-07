@@ -183,10 +183,11 @@ GameObject:
   - component: {fileID: 4415567332604899641}
   - component: {fileID: 7243859178469683584}
   - component: {fileID: 3117963914029865824}
-  - component: {fileID: 3227996787783421564}
-  - component: {fileID: 1986547097619327841}
   - component: {fileID: 7093115663288147807}
-  - component: {fileID: 1402089456780198274}
+  - component: {fileID: 8488049422558499351}
+  - component: {fileID: 396416475128968075}
+  - component: {fileID: -221062078511503463}
+  - component: {fileID: 2132172163711932650}
   m_Layer: 0
   m_Name: PlayerPrefab_Base
   m_TagString: Player
@@ -364,42 +365,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.43126482, y: 1.0638869}
   m_EdgeRadius: 0
---- !u!114 &3227996787783421564
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4513342226359919660}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b2804c065e2f1ce44b6153091e575bfc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
-  maxHealth: 100
-  invulnerabilityDuration: 0.5
---- !u!114 &1986547097619327841
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4513342226359919660}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27d9ba9f5cd373e4aae4d15aef073ba3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  characterData: {fileID: 0}
-  playerIndex: 0
-  targetLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  groundCheckPoint: {fileID: 3569279459083943682}
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 8
-  childMeleeHitbox: {fileID: 6971217178510646234}
 --- !u!114 &7093115663288147807
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -441,12 +406,78 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: e4353855-3063-4a8f-a8d8-7069d35a6207
     m_ActionName: 'Player/Guard[/Keyboard/s,/Keyboard/downArrow]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 2d3d7024-b449-46a0-b457-998cb1c46ed4
+    m_ActionName: 'Player/Skill1[/Keyboard/u,/Keyboard/4]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 2b360dd6-3c19-405b-b4a2-f7894ed8848f
+    m_ActionName: 'Player/Skill2[/Keyboard/i,/Keyboard/5]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 69d67f53-42a0-4fb6-b56e-5ebade6d0d7a
+    m_ActionName: 'Player/Dash[/Keyboard/l,/Keyboard/6]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: Player1
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!114 &1402089456780198274
+--- !u!114 &8488049422558499351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4513342226359919660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2feef2bfdbf2a6e48972ef884676c614, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShadowTrailEffect
+  playerSprite: {fileID: 0}
+  trailInterval: 0.05
+  shadowDuration: 0.3
+  shadowColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+--- !u!114 &396416475128968075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4513342226359919660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2804c065e2f1ce44b6153091e575bfc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthComponent
+  maxHealth: 100
+  maxBalance: 20
+  balanceDamagePerHit: 4
+  recoveryDuration: 2
+--- !u!114 &-221062078511503463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4513342226359919660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27d9ba9f5cd373e4aae4d15aef073ba3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  characterData: {fileID: 0}
+  playerIndex: 0
+  targetLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  groundCheckPoint: {fileID: 3569279459083943682}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  childMeleeHitbox: {fileID: 6971217178510646234}
+--- !u!114 &2132172163711932650
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

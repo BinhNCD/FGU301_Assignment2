@@ -7,7 +7,7 @@ public class HitboxTrigger : MonoBehaviour
     public float damage { get; set; } = 0f;
 
     [Tooltip("Thời gian dừng game (Game Stutter) khi đòn đánh trúng.")]
-    public float hit_stop_duration = 2f;
+    public float hit_stop_duration = 0.55f;
     public LayerMask TargetLayer { get; set; }
     private readonly HashSet<Collider2D> targets_hit = new HashSet<Collider2D>();
     private static Coroutine hitStopCoroutine = null;
@@ -40,9 +40,9 @@ public class HitboxTrigger : MonoBehaviour
 
         if (health != null)
         {
-            health.TakeDamage(damage, transform.position);
+            bool check = health.TakeDamage(damage, transform.position);
 
-            if (hitStopCoroutine == null)
+            if (hitStopCoroutine == null && check)
             {
                 hitStopCoroutine = StartCoroutine(HitStop(hit_stop_duration));
             }

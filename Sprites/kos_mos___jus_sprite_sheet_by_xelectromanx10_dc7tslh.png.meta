@@ -1382,8 +1382,8 @@ TextureImporter:
         y: 1211
         width: 50
         height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.54971194, y: 0.49938706}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1404,8 +1404,8 @@ TextureImporter:
         y: 1211
         width: 52
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5092615, y: 0.69093233}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1425,9 +1425,9 @@ TextureImporter:
         x: 346
         y: 1192
         width: 62
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4985391, y: 0.9411011}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1448,8 +1448,8 @@ TextureImporter:
         y: 1197
         width: 54
         height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49856567, y: 0.97977364}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1470,8 +1470,8 @@ TextureImporter:
         y: 1195
         width: 56
         height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49798366, y: 0.97488683}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1492,8 +1492,8 @@ TextureImporter:
         y: 1198
         width: 32
         height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48802376, y: 0.82488304}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1514,8 +1514,8 @@ TextureImporter:
         y: 1197
         width: 35
         height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.55466306, y: 0.63158256}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1969,50 +1969,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_85
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 1075
-        width: 22
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b28aa4e7687bc8a20800000000000000
-      internalID: 3066027234604787755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_86
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 1075
-        width: 48
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50c21258e4ece7620800000000000000
-      internalID: 2773881257143118853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_87
       rect:
         serializedVersion: 2
@@ -2040,7 +1996,7 @@ TextureImporter:
         serializedVersion: 2
         x: 573
         y: 1004
-        width: 72
+        width: 71
         height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2064,8 +2020,8 @@ TextureImporter:
         y: 1007
         width: 70
         height: 61
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5926421, y: 0.51691777}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2084,10 +2040,10 @@ TextureImporter:
         serializedVersion: 2
         x: 80
         y: 1006
-        width: 70
+        width: 69
         height: 62
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6016079, y: 0.5237584}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2104,12 +2060,12 @@ TextureImporter:
       name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_91
       rect:
         serializedVersion: 2
-        x: 148
+        x: 149
         y: 1006
-        width: 50
+        width: 49
         height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.8048348, y: 0.55720824}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2130,8 +2086,8 @@ TextureImporter:
         y: 1011
         width: 85
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46510118, y: 0.5276783}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2148,12 +2104,12 @@ TextureImporter:
       name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_93
       rect:
         serializedVersion: 2
-        x: 282
+        x: 284
         y: 1013
-        width: 64
+        width: 62
         height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.669312, y: 0.49966368}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2174,8 +2130,8 @@ TextureImporter:
         y: 1008
         width: 52
         height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.7023785, y: 0.65006125}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2196,8 +2152,8 @@ TextureImporter:
         y: 1009
         width: 65
         height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.253333, y: 0.47348338}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2218,8 +2174,8 @@ TextureImporter:
         y: 1013
         width: 52
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.23862222, y: 0.46668753}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2236,13 +2192,13 @@ TextureImporter:
       name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_97
       rect:
         serializedVersion: 2
-        x: 624
+        x: 644
         y: 1004
-        width: 80
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4890953, y: 0.46980357}
+      border: {x: 20, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -2272,28 +2228,6 @@ TextureImporter:
       bones: []
       spriteID: 7f8c37cbc1df60c80800000000000000
       internalID: -8356713758676760329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_99
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 968
-        width: 164
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cacb139af9c32150800000000000000
-      internalID: 5846738819304114884
       vertices: []
       indices: 
       edges: []
@@ -2607,50 +2541,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_114
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 863
-        width: 60
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2be1439e523fa4cc0800000000000000
-      internalID: -3725898397543817550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_115
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 863
-        width: 50
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6df49e871d6e46030800000000000000
-      internalID: 3487165798842716118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_116
       rect:
         serializedVersion: 2
@@ -2658,8 +2548,8 @@ TextureImporter:
         y: 740
         width: 114
         height: 133
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.2937274, y: 0.2592856}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2680,8 +2570,8 @@ TextureImporter:
         y: 741
         width: 52
         height: 131
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.6445019, y: 0.2553669}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2702,8 +2592,8 @@ TextureImporter:
         y: 741
         width: 93
         height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.30698162, y: 0.6256514}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2722,10 +2612,10 @@ TextureImporter:
         serializedVersion: 2
         x: 101
         y: 741
-        width: 97
+        width: 96
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.35975376, y: 0.6192005}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2743,11 +2633,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 197
-        y: 717
-        width: 254
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 741
+        width: 147
+        height: 54
+      alignment: 9
+      pivot: {x: 0.24186437, y: 0.62004596}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2764,12 +2654,12 @@ TextureImporter:
       name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_121
       rect:
         serializedVersion: 2
-        x: 432
+        x: 434
         y: 741
         width: 142
         height: 109
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.23606765, y: 0.30691445}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2790,8 +2680,8 @@ TextureImporter:
         y: 741
         width: 53
         height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.65160674, y: 0.33470213}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2800,28 +2690,6 @@ TextureImporter:
       bones: []
       spriteID: 9fdc8fc2bca326f30800000000000000
       internalID: 4567277616414379513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_123
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 715
-        width: 54
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbe53d5f7f9b75850800000000000000
-      internalID: 6365761072943816383
       vertices: []
       indices: 
       edges: []
@@ -3064,50 +2932,6 @@ TextureImporter:
       bones: []
       spriteID: 5b38acb16eea8f790800000000000000
       internalID: -7496049276426222667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_135
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 613
-        width: 73
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 729435cebfc2ea990800000000000000
-      internalID: -7372906079445628633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_136
-      rect:
-        serializedVersion: 2
-        x: 563
-        y: 613
-        width: 60
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09b382406795d61d0800000000000000
-      internalID: -3355927783910392944
       vertices: []
       indices: 
       edges: []
@@ -3362,8 +3186,8 @@ TextureImporter:
         y: 515
         width: 59
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.66845185, y: 0.60240567}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3384,8 +3208,8 @@ TextureImporter:
         y: 514
         width: 82
         height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.45725754, y: 0.589189}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3406,8 +3230,8 @@ TextureImporter:
         y: 515
         width: 82
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.456441, y: 0.58125025}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3426,10 +3250,10 @@ TextureImporter:
         serializedVersion: 2
         x: 776
         y: 514
-        width: 166
+        width: 83
         height: 55
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.46404, y: 0.57140446}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3450,8 +3274,8 @@ TextureImporter:
         y: 515
         width: 82
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48165223, y: 0.5821522}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3472,8 +3296,8 @@ TextureImporter:
         y: 515
         width: 81
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49979955, y: 0.5822392}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3494,8 +3318,8 @@ TextureImporter:
         y: 515
         width: 65
         height: 53
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.60780877, y: 0.5931201}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4736,6 +4560,28 @@ TextureImporter:
       bones: []
       spriteID: b7e56b52d9af1be4798e42b03fbc126f
       internalID: 5996202635061326805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kos_mos___jus_sprite_sheet_by_xelectromanx10_dc7tslh_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 515
+        width: 83
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48824227, y: 0.5825105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2785be5af7e2260479295fa9650807d8
+      internalID: -6641434560439990561
       vertices: []
       indices: 
       edges: []
